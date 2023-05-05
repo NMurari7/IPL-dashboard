@@ -1,0 +1,949 @@
+id,season,start_date,home_team,away_team,toss_won,decision,venue_name,1st_inning_score,2nd_inning_score,winner,pom
+1304047,2022,2022-03-26T14:00Z,CSK,KKR,KKR,BOWL FIRST,"Wankhede Stadium, Mumbai",131,133,KKR,Umesh Yadav
+1304048,2022,2022-03-27T10:00Z,DC,MI,DC,BOWL FIRST,"Brabourne Stadium, Mumbai",177,179,DC,Kuldeep Yadav
+1304049,2022,2022-03-27T14:00Z,PBKS,RCB,KXIP,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",205,208,PBKS,Odean Smith
+1304050,2022,2022-03-28T14:00Z,GT,LSG,GT,BOWL FIRST,"Wankhede Stadium, Mumbai",158,161,GT,Mohammed Shami
+1304051,2022,2022-03-29T14:00Z,SRH,RR,SRH,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",210,149,RR,Sanju Samson
+1304052,2022,2022-03-30T14:00Z,RCB,KKR,RCB,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",128,132,RCB,Wanindu Hasaranga de Silva
+1304053,2022,2022-03-31T14:00Z,LSG,CSK,LSG,BOWL FIRST,"Brabourne Stadium, Mumbai",210,211,LSG,Evin Lewis
+1304054,2022,2022-04-01T14:00Z,KKR,PBKS,KKR,BOWL FIRST,"Wankhede Stadium, Mumbai",137,141,KKR,Umesh Yadav
+1304055,2022,2022-04-02T10:00Z,MI,RR,MI,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",193,170,RR,Jos Buttler
+1304056,2022,2022-04-02T14:00Z,GT,DC,DC,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",171,157,GT,Lockie Ferguson
+1304057,2022,2022-04-03T14:00Z,CSK,PBKS,CSK,BOWL FIRST,"Brabourne Stadium, Mumbai",180,126,PBKS,Liam Livingstone
+1304058,2022,2022-04-04T14:00Z,SRH,LSG,SRH,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",169,157,LSG,Avesh Khan
+1304059,2022,2022-04-05T14:00Z,RR,RCB,RCB,BOWL FIRST,"Wankhede Stadium, Mumbai",169,173,RCB,Dinesh Karthik
+1304060,2022,2022-04-06T14:00Z,KKR,MI,KKR,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",161,162,KKR,Pat Cummins
+1304061,2022,2022-04-07T14:00Z,LSG,DC,LSG,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",149,155,LSG,Quinton de Kock
+1304062,2022,2022-04-08T14:00Z,PBKS,GT,GT,BOWL FIRST,"Brabourne Stadium, Mumbai",189,190,GT,Shubman Gill
+1304063,2022,2022-04-09T10:00Z,CSK,SRH,SRH,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",154,155,SRH,Abhishek Sharma
+1304064,2022,2022-04-09T14:00Z,RCB,MI,RCB,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",151,152,RCB,Anuj Rawat
+1304065,2022,2022-04-10T10:00Z,KKR,DC,KKR,BOWL FIRST,"Brabourne Stadium, Mumbai",215,171,DC,Kuldeep Yadav
+1304066,2022,2022-04-10T14:00Z,RR,LSG,LSG,BOWL FIRST,"Wankhede Stadium, Mumbai",165,162,RR,Yuzvendra Chahal
+1304067,2022,2022-04-11T14:00Z,SRH,GT,SRH,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",162,168,SRH,Kane Williamson
+1304068,2022,2022-04-12T14:00Z,CSK,RCB,RCB,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",216,193,CSK,Shivam Dube
+1304069,2022,2022-04-13T14:00Z,MI,PBKS,MI,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",198,186,PBKS,Mayank Agarwal
+1304070,2022,2022-04-14T14:00Z,RR,GT,RR,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",192,155,GT,Hardik Pandya
+1304071,2022,2022-04-15T14:00Z,SRH,KKR,SRH,BOWL FIRST,"Brabourne Stadium, Mumbai",175,176,SRH,Rahul Tripathi
+1304072,2022,2022-04-16T10:00Z,MI,LSG,MI,BOWL FIRST,"Brabourne Stadium, Mumbai",199,181,LSG,KL Rahul
+1304073,2022,2022-04-16T14:00Z,DC,RCB,DC,BOWL FIRST,"Wankhede Stadium, Mumbai",189,173,RCB,Dinesh Karthik
+1304074,2022,2022-04-17T10:00Z,PBKS,SRH,SRH,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",151,152,SRH,Umran Malik
+1304075,2022,2022-04-17T14:00Z,GT,CSK,GT,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",169,170,GT,David Miller
+1304076,2022,2022-04-18T14:00Z,RR,KKR,KKR,BOWL FIRST,"Brabourne Stadium, Mumbai",217,210,RR,Yuzvendra Chahal
+1304077,2022,2022-04-19T14:00Z,LSG,RCB,LSG,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",181,163,RCB,Faf du Plessis
+1304078,2022,2022-04-20T14:00Z,DC,PBKS,DC,BOWL FIRST,"Brabourne Stadium, Mumbai",115,119,DC,Kuldeep Yadav
+1304079,2022,2022-04-21T14:00Z,MI,CSK,CSK,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",155,156,CSK,Mukesh Choudhary
+1304080,2022,2022-04-22T14:00Z,DC,RR,DC,BOWL FIRST,"Wankhede Stadium, Mumbai",222,207,RR,Jos Buttler
+1304081,2022,2022-04-23T10:00Z,KKR,GT,GT,BAT FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",156,148,GT,Rashid Khan
+1304082,2022,2022-04-23T14:00Z,RCB,SRH,SRH,BOWL FIRST,"Brabourne Stadium, Mumbai",68,72,SRH,Marco Jansen
+1304083,2022,2022-04-24T14:00Z,LSG,MI,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",168,132,LSG,KL Rahul
+1304084,2022,2022-04-25T14:00Z,PBKS,CSK,CSK,BOWL FIRST,"Wankhede Stadium, Mumbai",187,176,PBKS,Shikhar Dhawan
+1304085,2022,2022-04-26T14:00Z,RCB,RR,RCB,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",144,115,RR,Riyan Parag
+1304086,2022,2022-04-27T14:00Z,GT,SRH,GT,BOWL FIRST,"Wankhede Stadium, Mumbai",195,199,GT,Umran Malik
+1304087,2022,2022-04-28T14:00Z,DC,KKR,DC,BOWL FIRST,"Wankhede Stadium, Mumbai",146,150,DC,Kuldeep Yadav
+1304088,2022,2022-04-29T14:00Z,PBKS,LSG,KXIP,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",153,133,LSG,Krunal Pandya
+1304089,2022,2022-04-30T10:00Z,GT,RCB,RCB,BAT FIRST,"Brabourne Stadium, Mumbai",170,174,GT,Rahul Tewatia
+1304090,2022,2022-04-30T14:00Z,RR,MI,MI,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",158,161,MI,Suryakumar Yadav
+1304091,2022,2022-05-01T10:00Z,DC,LSG,LSG,BAT FIRST,"Wankhede Stadium, Mumbai",195,189,LSG,Mohsin Khan
+1304092,2022,2022-05-01T14:00Z,SRH,CSK,SRH,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",202,189,CSK,Ruturaj Gaikwad
+1304093,2022,2022-05-02T14:00Z,KKR,RR,KKR,BOWL FIRST,"Wankhede Stadium, Mumbai",152,158,KKR,Rinku Singh
+1304094,2022,2022-05-03T14:00Z,GT,PBKS,GT,BAT FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",143,145,PBKS,Kagiso Rabada
+1304095,2022,2022-05-04T14:00Z,RCB,CSK,CSK,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",173,160,RCB,Harshal Patel
+1304096,2022,2022-05-05T14:00Z,DC,SRH,SRH,BOWL FIRST,"Brabourne Stadium, Mumbai",207,186,DC,David Warner
+1304097,2022,2022-05-06T14:00Z,GT,MI,GT,BOWL FIRST,"Brabourne Stadium, Mumbai",177,172,MI,Tim David
+1304098,2022,2022-05-07T10:00Z,PBKS,RR,KXIP,BAT FIRST,"Wankhede Stadium, Mumbai",189,190,RR,Yashasvi Jaiswal
+1304099,2022,2022-05-07T14:00Z,LSG,KKR,KKR,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",176,101,LSG,Avesh Khan
+1304100,2022,2022-05-08T10:00Z,SRH,RCB,RCB,BAT FIRST,"Wankhede Stadium, Mumbai",192,125,RCB,Wanindu Hasaranga de Silva
+1304101,2022,2022-05-08T14:00Z,CSK,DC,DC,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",208,117,CSK,Devon Conway
+1304102,2022,2022-05-09T14:00Z,MI,KKR,MI,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",165,113,KKR,Jasprit Bumrah
+1304103,2022,2022-05-10T14:00Z,LSG,GT,GT,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",144,82,GT,Shubman Gill
+1304104,2022,2022-05-11T14:00Z,RR,DC,DC,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",160,161,DC,Mitchell Marsh
+1304105,2022,2022-05-12T14:00Z,CSK,MI,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",97,103,MI,Daniel Sams
+1304106,2022,2022-05-13T14:00Z,RCB,PBKS,RCB,BOWL FIRST,"Brabourne Stadium, Mumbai",209,155,PBKS,Jonny Bairstow
+1304107,2022,2022-05-14T14:00Z,KKR,SRH,KKR,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",177,123,KKR,Andre Russell
+1304108,2022,2022-05-15T10:00Z,CSK,GT,CSK,BAT FIRST,"Wankhede Stadium, Mumbai",133,137,GT,Wriddhiman Saha
+1304109,2022,2022-05-15T14:00Z,LSG,RR,RR,BAT FIRST,"Brabourne Stadium, Mumbai",178,154,RR,Trent Boult
+1304110,2022,2022-05-16T14:00Z,PBKS,DC,KXIP,BOWL FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",159,142,DC,Shardul Thakur
+1304111,2022,2022-05-17T14:00Z,MI,SRH,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",193,190,SRH,Rahul Tripathi
+1304112,2022,2022-05-18T14:00Z,KKR,LSG,LSG,BAT FIRST,"Dr DY Patil Sports Academy, Navi Mumbai",210,208,LSG,Quinton de Kock
+1304113,2022,2022-05-19T14:00Z,RCB,GT,GT,BAT FIRST,"Wankhede Stadium, Mumbai",168,170,RCB,Virat Kohli
+1304114,2022,2022-05-20T14:00Z,RR,CSK,CSK,BAT FIRST,"Brabourne Stadium, Mumbai",150,151,RR,Ravichandran Ashwin
+1304115,2022,2022-05-21T14:00Z,MI,DC,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",159,160,MI,Jasprit Bumrah
+1304116,2022,2022-05-22T14:00Z,SRH,PBKS,SRH,BAT FIRST,"Wankhede Stadium, Mumbai",157,160,PBKS,Harpreet Brar
+1312197,2022,2022-05-24T14:00Z,GT,RR,GT,BOWL FIRST,"Eden Gardens, Kolkata",188,191,GT,David Miller
+1312198,2022,2022-05-25T14:00Z,LSG,RCB,LSG,BOWL FIRST,"Eden Gardens, Kolkata",207,193,RCB,Rajat Patidar
+1312199,2022,2022-05-27T14:00Z,RR,RCB,RR,BOWL FIRST,"Narendra Modi Stadium, Motera, Ahmedabad",157,161,RR,Jos Buttler
+1312200,2022,2022-05-29T14:30Z,GT,RR,RR,BAT FIRST,"Narendra Modi Stadium, Motera, Ahmedabad",130,133,GT,Hardik Pandya
+1254117,2021,2021-10-15T14:00Z,CSK,KKR,KKR,BOWL FIRST,Dubai International Cricket Stadium,192,165,CSK,Faf du Plessis
+1254116,2021,2021-10-13T14:00Z,DC,KKR,KKR,BOWL FIRST,Sharjah Cricket Stadium,135,136,KKR,Venkatesh Iyer
+1254115,2021,2021-10-11T14:00Z,RCB,KKR,RCB,BAT FIRST,Sharjah Cricket Stadium,138,139,KKR,Sunil Narine
+1254114,2021,2021-10-10T14:00Z,DC,CSK,CSK,BOWL FIRST,Dubai International Cricket Stadium,172,173,CSK,Ruturaj Gaikwad
+1254101,2021,2021-10-08T14:00Z,RCB,DC,RCB,BOWL FIRST,Dubai International Cricket Stadium,164,166,RCB,Srikar Bharat
+1254088,2021,2021-10-08T14:00Z,SRH,MI,MI,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",235,193,MI,Ishan Kishan
+1254106,2021,2021-10-07T14:00Z,KKR,RR,RR,BOWL FIRST,Sharjah Cricket Stadium,171,85,KKR,Shivam Mavi
+1254094,2021,2021-10-07T10:00Z,CSK,PBKS,KXIP,BOWL FIRST,Dubai International Cricket Stadium,134,139,PBKS,KL Rahul
+1254095,2021,2021-10-06T14:00Z,RCB,SRH,RCB,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",141,137,SRH,Kane Williamson
+1254093,2021,2021-10-05T14:00Z,RR,MI,MI,BOWL FIRST,Sharjah Cricket Stadium,90,94,MI,Nathan Coulter-Nile
+1254110,2021,2021-10-04T14:00Z,DC,CSK,DC,BOWL FIRST,Dubai International Cricket Stadium,136,139,DC,Axar Patel
+1254109,2021,2021-10-03T14:00Z,KKR,SRH,SRH,BAT FIRST,Dubai International Cricket Stadium,115,119,KKR,Shubman Gill
+1254090,2021,2021-10-03T10:00Z,RCB,PBKS,RCB,BAT FIRST,Sharjah Cricket Stadium,164,158,RCB,Glenn Maxwell
+1254089,2021,2021-10-02T14:00Z,RR,CSK,RR,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",189,190,RR,Ruturaj Gaikwad
+1254112,2021,2021-10-02T10:00Z,MI,DC,DC,BOWL FIRST,Sharjah Cricket Stadium,129,132,DC,Axar Patel
+1254102,2021,2021-10-01T14:00Z,KKR,PBKS,KXIP,BOWL FIRST,Dubai International Cricket Stadium,165,168,PBKS,KL Rahul
+1254091,2021,2021-09-30T14:00Z,SRH,CSK,CSK,BOWL FIRST,Sharjah Cricket Stadium,134,139,CSK,Josh Hazlewood
+1254103,2021,2021-09-29T14:00Z,RR,RCB,RCB,BOWL FIRST,Dubai International Cricket Stadium,149,153,RCB,Yuzvendra Chahal
+1254099,2021,2021-09-28T14:00Z,MI,PBKS,MI,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",135,137,MI,Kieron Pollard
+1254092,2021,2021-09-28T10:00Z,KKR,DC,KKR,BOWL FIRST,Sharjah Cricket Stadium,127,130,KKR,Sunil Narine
+1254100,2021,2021-09-27T14:00Z,SRH,RR,RR,BAT FIRST,Dubai International Cricket Stadium,164,167,SRH,Jason Roy
+1254108,2021,2021-09-26T14:00Z,RCB,MI,MI,BOWL FIRST,Dubai International Cricket Stadium,165,111,RCB,Glenn Maxwell
+1254098,2021,2021-09-26T10:00Z,CSK,KKR,KKR,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",171,172,CSK,Ravindra Jadeja
+1254107,2021,2021-09-25T14:00Z,SRH,PBKS,SRH,BOWL FIRST,Sharjah Cricket Stadium,125,120,PBKS,Jason Holder
+1254097,2021,2021-09-25T10:00Z,DC,RR,RR,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",154,121,DC,Shreyas Iyer
+1254113,2021,2021-09-24T14:00Z,RCB,CSK,CSK,BOWL FIRST,Sharjah Cricket Stadium,156,157,CSK,Dwayne Bravo
+1254096,2021,2021-09-23T14:00Z,MI,KKR,KKR,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",155,159,KKR,Sunil Narine
+1254105,2021,2021-09-22T14:00Z,DC,SRH,SRH,BAT FIRST,Dubai International Cricket Stadium,134,139,DC,Anrich Nortje
+1254111,2021,2021-09-21T14:00Z,PBKS,RR,KXIP,BOWL FIRST,Dubai International Cricket Stadium,185,183,RR,Kartik Tyagi
+1254087,2021,2021-09-20T14:00Z,KKR,RCB,RCB,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",92,94,KKR,Varun Chakravarthy
+1254104,2021,2021-09-19T14:00Z,CSK,MI,CSK,BAT FIRST,Dubai International Cricket Stadium,156,136,CSK,Ruturaj Gaikwad
+1254086,2021,2021-05-02T14:00Z,PBKS,DC,DC,BOWL FIRST,"Narendra Modi Stadium, Motera, Ahmedabad",166,167,DC,Mayank Agarwal
+1254085,2021,2021-05-02T10:00Z,RR,SRH,SRH,BOWL FIRST,"Arun Jaitley Stadium, Delhi",220,165,RR,Jos Buttler
+1254084,2021,2021-05-01T14:00Z,MI,CSK,MI,BOWL FIRST,"Arun Jaitley Stadium, Delhi",218,219,MI,Kieron Pollard
+1254083,2021,2021-04-30T14:00Z,PBKS,RCB,RCB,BOWL FIRST,"Narendra Modi Stadium, Motera, Ahmedabad",179,145,PBKS,Harpreet Brar
+1254082,2021,2021-04-29T14:00Z,DC,KKR,DC,BOWL FIRST,"Narendra Modi Stadium, Motera, Ahmedabad",154,156,DC,Prithvi Shaw
+1254081,2021,2021-04-29T10:00Z,MI,RR,MI,BOWL FIRST,"Arun Jaitley Stadium, Delhi",171,172,MI,Quinton de Kock
+1254080,2021,2021-04-28T14:00Z,CSK,SRH,SRH,BAT FIRST,"Arun Jaitley Stadium, Delhi",171,173,CSK,Ruturaj Gaikwad
+1254079,2021,2021-04-27T14:00Z,DC,RCB,DC,BOWL FIRST,"Narendra Modi Stadium, Motera, Ahmedabad",171,170,RCB,AB de Villiers
+1254078,2021,2021-04-26T14:00Z,PBKS,KKR,KKR,BOWL FIRST,"Narendra Modi Stadium, Motera, Ahmedabad",123,126,KKR,Eoin Morgan
+1254077,2021,2021-04-25T14:00Z,SRH,DC,DC,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",159,159,SRH,Prithvi Shaw
+1254076,2021,2021-04-25T10:00Z,CSK,RCB,CSK,BAT FIRST,"Wankhede Stadium, Mumbai",191,122,CSK,Ravindra Jadeja
+1254075,2021,2021-04-24T14:00Z,RR,KKR,RR,BOWL FIRST,"Wankhede Stadium, Mumbai",133,134,RR,Chris Morris
+1254074,2021,2021-04-23T14:00Z,PBKS,MI,KXIP,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",131,132,PBKS,KL Rahul
+1254073,2021,2021-04-22T14:00Z,RCB,RR,RCB,BOWL FIRST,"Wankhede Stadium, Mumbai",177,181,RCB,Devdutt Padikkal
+1254072,2021,2021-04-21T14:00Z,KKR,CSK,KKR,BOWL FIRST,"Wankhede Stadium, Mumbai",220,202,CSK,Faf du Plessis
+1254071,2021,2021-04-21T10:00Z,PBKS,SRH,KXIP,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",120,121,SRH,Jonny Bairstow
+1254070,2021,2021-04-20T14:00Z,DC,MI,MI,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",137,138,DC,Amit Mishra
+1254069,2021,2021-04-19T14:00Z,CSK,RR,RR,BOWL FIRST,"Wankhede Stadium, Mumbai",188,143,CSK,Moeen Ali
+1254068,2021,2021-04-18T14:00Z,DC,PBKS,DC,BOWL FIRST,"Wankhede Stadium, Mumbai",195,198,DC,Shikhar Dhawan
+1254067,2021,2021-04-18T10:00Z,RCB,KKR,RCB,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",204,166,RCB,AB de Villiers
+1254066,2021,2021-04-17T14:00Z,MI,SRH,MI,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",150,137,MI,Kieron Pollard
+1254065,2021,2021-04-16T14:00Z,PBKS,CSK,CSK,BOWL FIRST,"Wankhede Stadium, Mumbai",106,107,CSK,Deepak Chahar
+1254064,2021,2021-04-15T14:00Z,RR,DC,RR,BOWL FIRST,"Wankhede Stadium, Mumbai",147,150,RR,Jaydev Unadkat
+1254063,2021,2021-04-14T14:00Z,SRH,RCB,SRH,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",149,143,RCB,Glenn Maxwell
+1254062,2021,2021-04-13T14:00Z,KKR,MI,KKR,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",152,142,MI,Rahul Chahar
+1254061,2021,2021-04-12T14:00Z,RR,PBKS,RR,BOWL FIRST,"Wankhede Stadium, Mumbai",221,217,PBKS,Sanju Samson
+1254060,2021,2021-04-11T14:00Z,SRH,KKR,SRH,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",187,177,KKR,Nitish Rana
+1254059,2021,2021-04-10T14:00Z,CSK,DC,DC,BOWL FIRST,"Wankhede Stadium, Mumbai",188,190,DC,Shikhar Dhawan
+1254058,2021,2021-04-09T14:00Z,MI,RCB,RCB,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",159,160,RCB,Harshal Patel
+1216492,2020,2020-09-19T14:00Z,MI,CSK,CSK,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",162,166,CSK,Ambati Rayudu
+1216493,2020,2020-09-20T14:00Z,DC,KXIP,KXIP,BOWL FIRST,Dubai International Cricket Stadium,157,157,KXIP,Marcus Stoinis
+1216534,2020,2020-09-21T14:00Z,SRH,RCB,SRH,BOWL FIRST,Dubai International Cricket Stadium,163,153,RCB,Yuzvendra Chahal
+1216496,2020,2020-09-22T14:00Z,RR,CSK,CSK,BOWL FIRST,Sharjah Cricket Stadium,216,200,RR,Sanju Samson
+1216508,2020,2020-09-23T14:00Z,KKR,MI,KKR,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",195,146,MI,Rohit Sharma
+1216510,2020,2020-09-24T14:00Z,KXIP,RCB,RCB,BOWL FIRST,Dubai International Cricket Stadium,206,109,KXIP,KL Rahul
+1216539,2020,2020-09-25T14:00Z,CSK,DC,CSK,BOWL FIRST,Dubai International Cricket Stadium,175,131,DC,Prithvi Shaw
+1216545,2020,2020-09-26T14:00Z,KKR,SRH,SRH,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",142,145,KKR,Shubman Gill
+1216527,2020,2020-09-27T14:00Z,RR,KXIP,RR,BOWL FIRST,Sharjah Cricket Stadium,223,226,RR,Sanju Samson
+1216547,2020,2020-09-28T14:00Z,RCB,MI,MI,BOWL FIRST,Dubai International Cricket Stadium,201,201,MI,AB de Villiers
+1216532,2020,2020-09-29T14:00Z,DC,SRH,DC,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",162,147,SRH,Rashid Khan
+1216504,2020,2020-09-30T14:00Z,RR,KKR,RR,BOWL FIRST,Dubai International Cricket Stadium,174,137,KKR,Shivam Mavi
+1216503,2020,2020-10-01T14:00Z,KXIP,MI,KXIP,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",191,143,MI,Kieron Pollard
+1216516,2020,2020-10-02T14:00Z,CSK,SRH,SRH,BAT FIRST,Dubai International Cricket Stadium,164,157,SRH,Priyam Garg
+1216514,2020,2020-10-03T10:00Z,RCB,RR,RR,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",154,158,RCB,Yuzvendra Chahal
+1216515,2020,2020-10-03T14:00Z,DC,KKR,KKR,BOWL FIRST,Sharjah Cricket Stadium,228,210,DC,Shreyas Iyer
+1216538,2020,2020-10-04T10:00Z,MI,SRH,MI,BAT FIRST,Sharjah Cricket Stadium,208,174,MI,Trent Boult
+1216513,2020,2020-10-04T14:00Z,KXIP,CSK,KXIP,BAT FIRST,Dubai International Cricket Stadium,178,181,CSK,Shane Watson
+1216519,2020,2020-10-05T14:00Z,RCB,DC,RCB,BOWL FIRST,Dubai International Cricket Stadium,196,137,DC,Axar Patel
+1216511,2020,2020-10-06T14:00Z,MI,RR,MI,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",193,136,MI,Suryakumar Yadav
+1216501,2020,2020-10-07T14:00Z,KKR,CSK,KKR,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",167,157,KKR,Rahul Tripathi
+1216542,2020,2020-10-08T14:00Z,SRH,KXIP,SRH,BAT FIRST,Dubai International Cricket Stadium,201,132,SRH,Jonny Bairstow
+1216500,2020,2020-10-09T14:00Z,RR,DC,RR,BOWL FIRST,Sharjah Cricket Stadium,184,138,DC,Ravichandran Ashwin
+1216523,2020,2020-10-10T10:00Z,KXIP,KKR,KKR,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",164,162,KKR,Dinesh Karthik
+1216525,2020,2020-10-10T14:00Z,CSK,RCB,RCB,BAT FIRST,Dubai International Cricket Stadium,169,132,RCB,Virat Kohli
+1216507,2020,2020-10-11T10:00Z,SRH,RR,SRH,BAT FIRST,Dubai International Cricket Stadium,158,163,RR,Rahul Tewatia
+1216529,2020,2020-10-11T14:00Z,MI,DC,DC,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",162,166,MI,Quinton de Kock
+1216540,2020,2020-10-12T14:00Z,RCB,KKR,RCB,BAT FIRST,Sharjah Cricket Stadium,194,112,RCB,AB de Villiers
+1216528,2020,2020-10-13T14:00Z,SRH,CSK,CSK,BAT FIRST,Dubai International Cricket Stadium,167,147,CSK,Ravindra Jadeja
+1216543,2020,2020-10-14T14:00Z,DC,RR,DC,BAT FIRST,Dubai International Cricket Stadium,161,148,DC,Anrich Nortje
+1216531,2020,2020-10-15T14:00Z,RCB,KXIP,RCB,BAT FIRST,Sharjah Cricket Stadium,171,177,KXIP,KL Rahul
+1216526,2020,2020-10-16T14:00Z,MI,KKR,KKR,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",148,149,MI,Quinton de Kock
+1216522,2020,2020-10-17T10:00Z,RR,RCB,RR,BAT FIRST,Dubai International Cricket Stadium,177,179,RCB,AB de Villiers
+1216509,2020,2020-10-17T14:00Z,DC,CSK,CSK,BAT FIRST,Sharjah Cricket Stadium,179,185,DC,Shikhar Dhawan
+1216512,2020,2020-10-18T10:00Z,SRH,KKR,SRH,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",163,163,SRH,Lockie Ferguson
+1216517,2020,2020-10-18T14:00Z,MI,KXIP,MI,BAT FIRST,Dubai International Cricket Stadium,176,176,KXIP,KL Rahul
+1216533,2020,2020-10-19T14:00Z,CSK,RR,CSK,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",125,126,RR,Jos Buttler
+1216546,2020,2020-10-20T14:00Z,KXIP,DC,DC,BAT FIRST,Dubai International Cricket Stadium,164,167,KXIP,Shikhar Dhawan
+1216494,2020,2020-10-21T14:00Z,KKR,RCB,KKR,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",84,85,RCB,Mohammed Siraj
+1216518,2020,2020-10-22T14:00Z,RR,SRH,SRH,BOWL FIRST,Dubai International Cricket Stadium,154,156,SRH,Manish Pandey
+1216521,2020,2020-10-23T14:00Z,CSK,MI,MI,BOWL FIRST,Sharjah Cricket Stadium,114,116,MI,Trent Boult
+1216497,2020,2020-10-24T10:00Z,KKR,DC,DC,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",194,135,KKR,Varun Chakravarthy
+1216498,2020,2020-10-24T14:00Z,KXIP,SRH,SRH,BOWL FIRST,Dubai International Cricket Stadium,126,114,KXIP,Chris Jordan
+1216544,2020,2020-10-25T10:00Z,RCB,CSK,RCB,BAT FIRST,Dubai International Cricket Stadium,145,150,CSK,Ruturaj Gaikwad
+1216541,2020,2020-10-25T14:00Z,RR,MI,MI,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",195,196,RR,Ben Stokes
+1216520,2020,2020-10-26T14:00Z,KKR,KXIP,KXIP,BOWL FIRST,Sharjah Cricket Stadium,149,150,KXIP,Chris Gayle
+1216524,2020,2020-10-27T14:00Z,SRH,DC,DC,BOWL FIRST,Dubai International Cricket Stadium,219,131,SRH,Wriddhiman Saha
+1216499,2020,2020-10-28T14:00Z,MI,RCB,MI,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",164,166,MI,Suryakumar Yadav
+1216536,2020,2020-10-29T14:00Z,CSK,KKR,CSK,BOWL FIRST,Dubai International Cricket Stadium,172,178,CSK,Ruturaj Gaikwad
+1216537,2020,2020-10-30T14:00Z,KXIP,RR,RR,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",185,186,RR,Ben Stokes
+1216535,2020,2020-10-31T10:00Z,DC,MI,MI,BOWL FIRST,Dubai International Cricket Stadium,110,111,MI,Ishan Kishan
+1216502,2020,2020-10-31T14:00Z,RCB,SRH,SRH,BOWL FIRST,Sharjah Cricket Stadium,120,121,SRH,Sandeep Sharma
+1216506,2020,2020-11-01T10:00Z,CSK,KXIP,CSK,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",153,154,CSK,Ruturaj Gaikwad
+1216530,2020,2020-11-01T14:00Z,KKR,RR,RR,BOWL FIRST,Dubai International Cricket Stadium,191,131,KKR,Pat Cummins
+1216505,2020,2020-11-02T14:00Z,DC,RCB,DC,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",152,154,DC,Anrich Nortje
+1216495,2020,2020-11-03T14:00Z,SRH,MI,SRH,BOWL FIRST,Sharjah Cricket Stadium,149,151,SRH,Shahbaz Nadeem
+1237177,2020,2020-11-05T14:00Z,DC,MI,DC,BOWL FIRST,Dubai International Cricket Stadium,200,143,MI,Jasprit Bumrah
+1237178,2020,2020-11-06T14:00Z,RCB,SRH,SRH,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",131,132,SRH,Kane Williamson
+1237180,2020,2020-11-08T14:00Z,DC,SRH,DC,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",189,172,DC,Marcus Stoinis
+1237181,2020,2020-11-10T14:00Z,DC,MI,DC,BAT FIRST,Dubai International Cricket Stadium,156,157,MI,Trent Boult
+1175356,2019,2019-03-23T14:30Z,CSK,RCB,CSK,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",70,71,CSK,Harbhajan Singh
+1175357,2019,2019-03-24T10:30Z,KKR,SRH,KKR,BOWL FIRST,"Eden Gardens, Kolkata",181,183,KKR,Andre Russell
+1175358,2019,2019-03-24T14:30Z,MI,DC,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",213,176,DC,Rishabh Pant
+1175359,2019,2019-03-25T14:30Z,RR,KXIP,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",184,170,KXIP,Chris Gayle
+1175360,2019,2019-03-26T14:30Z,DC,CSK,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",147,150,CSK,Shane Watson
+1175361,2019,2019-03-27T14:30Z,KKR,KXIP,KXIP,BOWL FIRST,"Eden Gardens, Kolkata",218,190,KKR,Andre Russell
+1175362,2019,2019-03-28T14:30Z,RCB,MI,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",187,181,MI,Jasprit Bumrah
+1175363,2019,2019-03-29T14:30Z,SRH,RR,RR,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",198,201,SRH,Rashid Khan
+1175364,2019,2019-03-30T10:30Z,KXIP,MI,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",176,177,KXIP,Mayank Agarwal
+1175365,2019,2019-03-30T14:30Z,DC,KKR,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",185,185,DC,Prithvi Shaw
+1175366,2019,2019-03-31T10:30Z,SRH,RCB,RCB,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",231,113,SRH,Jonny Bairstow
+1175367,2019,2019-03-31T14:30Z,CSK,RR,RR,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",175,167,CSK,MS Dhoni
+1175368,2019,2019-04-01T14:30Z,KXIP,DC,DC,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",166,152,KXIP,Sam Curran
+1175369,2019,2019-04-02T14:30Z,RR,RCB,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",158,164,RR,Shreyas Gopal
+1175370,2019,2019-04-03T14:30Z,MI,CSK,CSK,BOWL FIRST,"Wankhede Stadium, Mumbai",170,133,MI,Hardik Pandya
+1175371,2019,2019-04-04T14:30Z,DC,SRH,SRH,BOWL FIRST,"Arun Jaitley Stadium, Delhi",129,131,SRH,Jonny Bairstow
+1175372,2019,2019-04-05T14:30Z,RCB,KKR,KKR,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",205,206,KKR,Andre Russell
+1178393,2019,2019-04-06T10:30Z,CSK,KXIP,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",160,138,CSK,Harbhajan Singh
+1178394,2019,2019-04-06T14:30Z,SRH,MI,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",136,96,MI,Alzarri Joseph
+1178395,2019,2019-04-07T10:30Z,RCB,DC,DC,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",149,152,DC,Kagiso Rabada
+1178396,2019,2019-04-07T14:30Z,RR,KKR,KKR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",139,140,KKR,Harry Gurney
+1178397,2019,2019-04-08T14:30Z,KXIP,SRH,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",150,151,KXIP,KL Rahul
+1178398,2019,2019-04-09T14:30Z,CSK,KKR,CSK,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",108,111,CSK,Deepak Chahar
+1178399,2019,2019-04-10T14:30Z,MI,KXIP,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",197,198,MI,Kieron Pollard
+1178400,2019,2019-04-11T14:30Z,RR,CSK,CSK,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",151,155,CSK,MS Dhoni
+1178401,2019,2019-04-12T14:30Z,KKR,DC,DC,BOWL FIRST,"Eden Gardens, Kolkata",178,180,DC,Shikhar Dhawan
+1178402,2019,2019-04-13T10:30Z,MI,RR,RR,BOWL FIRST,"Wankhede Stadium, Mumbai",187,188,RR,Jos Buttler
+1178403,2019,2019-04-13T14:30Z,KXIP,RCB,RCB,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",173,174,RCB,AB de Villiers
+1178404,2019,2019-04-14T10:30Z,KKR,CSK,CSK,BOWL FIRST,"Eden Gardens, Kolkata",161,162,CSK,Imran Tahir
+1178405,2019,2019-04-14T14:30Z,SRH,DC,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",155,116,DC,Keemo Paul
+1178406,2019,2019-04-15T14:30Z,MI,RCB,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",171,172,MI,Lasith Malinga
+1178407,2019,2019-04-16T14:30Z,KXIP,RR,RR,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",182,170,KXIP,Ravichandran Ashwin
+1178408,2019,2019-04-17T14:30Z,SRH,CSK,CSK,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",132,137,SRH,David Warner
+1178409,2019,2019-04-18T14:30Z,DC,MI,MI,BAT FIRST,"Arun Jaitley Stadium, Delhi",168,128,MI,Hardik Pandya
+1178410,2019,2019-04-19T14:30Z,KKR,RCB,KKR,BOWL FIRST,"Eden Gardens, Kolkata",213,203,RCB,Virat Kohli
+1178411,2019,2019-04-20T10:30Z,RR,MI,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",161,162,RR,Steven Smith
+1178412,2019,2019-04-20T14:30Z,DC,KXIP,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",163,166,DC,Shreyas Iyer
+1178413,2019,2019-04-21T10:30Z,SRH,KKR,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",159,161,SRH,Khaleel Ahmed
+1178414,2019,2019-04-21T14:30Z,RCB,CSK,CSK,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",161,160,RCB,Parthiv Patel
+1178415,2019,2019-04-22T14:30Z,RR,DC,DC,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",191,193,DC,Rishabh Pant
+1178416,2019,2019-04-23T14:30Z,CSK,SRH,CSK,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",175,176,CSK,Shane Watson
+1178417,2019,2019-04-24T14:30Z,RCB,KXIP,KXIP,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",202,185,RCB,AB de Villiers
+1178418,2019,2019-04-25T14:30Z,KKR,RR,RR,BOWL FIRST,"Eden Gardens, Kolkata",175,177,RR,Varun Aaron
+1178419,2019,2019-04-26T14:30Z,CSK,MI,CSK,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",155,109,MI,Rohit Sharma
+1178420,2019,2019-04-27T14:30Z,RR,SRH,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",160,161,RR,Jaydev Unadkat
+1178421,2019,2019-04-28T10:30Z,DC,RCB,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",187,171,DC,Shikhar Dhawan
+1178422,2019,2019-04-28T14:30Z,KKR,MI,MI,BOWL FIRST,"Eden Gardens, Kolkata",232,198,KKR,Andre Russell
+1178423,2019,2019-04-29T14:30Z,SRH,KXIP,KXIP,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",212,167,SRH,David Warner
+1178424,2019,2019-04-30T14:30Z,RCB,RR,RR,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",62,41,RR,None
+1178425,2019,2019-05-01T14:30Z,CSK,DC,DC,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",179,99,CSK,MS Dhoni
+1178426,2019,2019-05-02T14:30Z,MI,SRH,MI,BAT FIRST,"Wankhede Stadium, Mumbai",162,162,SRH,Jasprit Bumrah
+1178427,2019,2019-05-03T14:30Z,KXIP,KKR,KKR,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",183,185,KKR,Shubman Gill
+1178428,2019,2019-05-04T10:30Z,DC,RR,RR,BAT FIRST,"Arun Jaitley Stadium, Delhi",115,121,DC,Amit Mishra
+1178429,2019,2019-05-04T14:30Z,RCB,SRH,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",175,178,RCB,Shimron Hetmyer
+1178430,2019,2019-05-05T10:30Z,KXIP,CSK,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",170,173,KXIP,KL Rahul
+1178431,2019,2019-05-05T14:30Z,MI,KKR,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",133,134,MI,Hardik Pandya
+1181764,2019,2019-05-07T14:00Z,MI,CSK,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",131,132,MI,Suryakumar Yadav
+1181766,2019,2019-05-08T14:00Z,DC,SRH,DC,BOWL FIRST,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",162,165,DC,Rishabh Pant
+1181767,2019,2019-05-10T14:00Z,CSK,DC,CSK,BOWL FIRST,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",147,151,CSK,Faf du Plessis
+1181768,2019,2019-05-12T14:00Z,MI,CSK,MI,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",149,148,MI,Jasprit Bumrah
+1136561,2018,2018-04-07T14:30Z,MI,CSK,CSK,BOWL FIRST,"Wankhede Stadium, Mumbai",165,169,CSK,Dwayne Bravo
+1136562,2018,2018-04-08T10:30Z,KXIP,DC,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",166,167,KXIP,KL Rahul
+1136563,2018,2018-04-08T14:30Z,KKR,RCB,KKR,BOWL FIRST,"Eden Gardens, Kolkata",176,177,KKR,Sunil Narine
+1136564,2018,2018-04-09T14:30Z,SRH,RR,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",125,127,SRH,Shikhar Dhawan
+1136565,2018,2018-04-10T14:30Z,CSK,KKR,CSK,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",202,205,CSK,Sam Billings
+1136566,2018,2018-04-11T14:30Z,RR,DC,DC,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",153,60,RR,Sanju Samson
+1136567,2018,2018-04-12T14:30Z,SRH,MI,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",147,151,SRH,Rashid Khan
+1136568,2018,2018-04-13T14:30Z,RCB,KXIP,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",155,159,RCB,Umesh Yadav
+1136569,2018,2018-04-14T10:30Z,MI,DC,DC,BOWL FIRST,"Wankhede Stadium, Mumbai",194,195,DC,Jason Roy
+1136570,2018,2018-04-14T14:30Z,KKR,SRH,SRH,BOWL FIRST,"Eden Gardens, Kolkata",138,139,SRH,Billy Stanlake
+1136571,2018,2018-04-15T10:30Z,RCB,RR,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",217,198,RR,Sanju Samson
+1136572,2018,2018-04-15T14:30Z,KXIP,CSK,CSK,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",197,193,KXIP,Chris Gayle
+1136573,2018,2018-04-16T14:30Z,KKR,DC,DC,BOWL FIRST,"Eden Gardens, Kolkata",200,129,KKR,Nitish Rana
+1136574,2018,2018-04-17T14:30Z,MI,RCB,RCB,BOWL FIRST,"Wankhede Stadium, Mumbai",213,167,MI,Rohit Sharma
+1136575,2018,2018-04-18T14:30Z,RR,KKR,KKR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",160,163,KKR,Nitish Rana
+1136576,2018,2018-04-19T14:30Z,KXIP,SRH,KXIP,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",193,178,KXIP,Chris Gayle
+1136577,2018,2018-04-20T14:30Z,CSK,RR,RR,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",204,140,CSK,Shane Watson
+1136578,2018,2018-04-21T10:30Z,KKR,KXIP,KXIP,BOWL FIRST,"Eden Gardens, Kolkata",191,126,KXIP,KL Rahul
+1136579,2018,2018-04-21T14:30Z,RCB,DC,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",174,176,RCB,AB de Villiers
+1136580,2018,2018-04-22T10:30Z,SRH,CSK,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",182,178,CSK,Ambati Rayudu
+1136581,2018,2018-04-22T14:30Z,RR,MI,MI,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",167,168,RR,Jofra Archer
+1136582,2018,2018-04-23T14:30Z,DC,KXIP,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",143,139,KXIP,Ankit Rajpoot
+1136583,2018,2018-04-24T14:30Z,MI,SRH,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",118,87,SRH,Rashid Khan
+1136584,2018,2018-04-25T14:30Z,RCB,CSK,CSK,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",205,207,CSK,MS Dhoni
+1136585,2018,2018-04-26T14:30Z,SRH,KXIP,KXIP,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",132,119,SRH,Ankit Rajpoot
+1136586,2018,2018-04-27T14:30Z,DC,KKR,KKR,BOWL FIRST,"Arun Jaitley Stadium, Delhi",219,164,DC,Shreyas Iyer
+1136587,2018,2018-04-28T14:30Z,CSK,MI,MI,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",169,170,MI,Rohit Sharma
+1136588,2018,2018-04-29T10:30Z,RR,SRH,SRH,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",151,140,SRH,Kane Williamson
+1136589,2018,2018-04-29T14:30Z,RCB,KKR,KKR,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",175,176,KKR,Chris Lynn
+1136590,2018,2018-04-30T14:30Z,CSK,DC,DC,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",211,198,CSK,Shane Watson
+1136591,2018,2018-05-01T14:30Z,RCB,MI,MI,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",167,153,RCB,Tim Southee
+1136592,2018,2018-05-02T14:30Z,DC,RR,RR,BOWL FIRST,"Arun Jaitley Stadium, Delhi",196,146,DC,Rishabh Pant
+1136593,2018,2018-05-03T14:30Z,KKR,CSK,KKR,BOWL FIRST,"Eden Gardens, Kolkata",177,180,KKR,Sunil Narine
+1136594,2018,2018-05-04T14:30Z,KXIP,MI,MI,BOWL FIRST,"Holkar Cricket Stadium, Indore",174,176,MI,Suryakumar Yadav
+1136595,2018,2018-05-05T10:30Z,CSK,RCB,CSK,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",127,128,CSK,Ravindra Jadeja
+1136596,2018,2018-05-05T14:30Z,SRH,DC,DC,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",163,164,SRH,Rashid Khan
+1136597,2018,2018-05-06T10:30Z,MI,KKR,KKR,BOWL FIRST,"Wankhede Stadium, Mumbai",181,168,MI,Hardik Pandya
+1136598,2018,2018-05-06T14:30Z,KXIP,RR,KXIP,BOWL FIRST,"Holkar Cricket Stadium, Indore",152,155,KXIP,Mujeeb Ur Rahman
+1136599,2018,2018-05-07T14:30Z,SRH,RCB,RCB,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",146,141,SRH,Kane Williamson
+1136600,2018,2018-05-08T14:30Z,RR,KXIP,RR,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",158,143,RR,Jos Buttler
+1136601,2018,2018-05-09T14:30Z,KKR,MI,KKR,BOWL FIRST,"Eden Gardens, Kolkata",210,108,MI,Ishan Kishan
+1136602,2018,2018-05-10T14:30Z,DC,SRH,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",187,191,SRH,Shikhar Dhawan
+1136603,2018,2018-05-11T14:30Z,RR,CSK,CSK,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",176,177,RR,Jos Buttler
+1136604,2018,2018-05-12T10:30Z,KXIP,KKR,KXIP,BOWL FIRST,"Holkar Cricket Stadium, Indore",245,214,KKR,Sunil Narine
+1136605,2018,2018-05-12T14:30Z,DC,RCB,RCB,BOWL FIRST,"Arun Jaitley Stadium, Delhi",181,187,RCB,AB de Villiers
+1136606,2018,2018-05-13T10:30Z,CSK,SRH,CSK,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",179,180,CSK,Ambati Rayudu
+1136607,2018,2018-05-13T14:30Z,MI,RR,RR,BOWL FIRST,"Wankhede Stadium, Mumbai",168,171,RR,Jos Buttler
+1136608,2018,2018-05-14T14:30Z,KXIP,RCB,RCB,BOWL FIRST,"Holkar Cricket Stadium, Indore",88,92,RCB,Umesh Yadav
+1136609,2018,2018-05-15T14:30Z,KKR,RR,KKR,BOWL FIRST,"Eden Gardens, Kolkata",142,145,KKR,Kuldeep Yadav
+1136610,2018,2018-05-16T14:30Z,MI,KXIP,KXIP,BOWL FIRST,"Wankhede Stadium, Mumbai",186,183,MI,Jasprit Bumrah
+1136611,2018,2018-05-17T14:30Z,RCB,SRH,SRH,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",218,204,RCB,AB de Villiers
+1136612,2018,2018-05-18T14:30Z,DC,CSK,CSK,BOWL FIRST,"Arun Jaitley Stadium, Delhi",162,128,DC,Harshal Patel
+1136613,2018,2018-05-19T10:30Z,RR,RCB,RR,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",164,134,RR,Shreyas Gopal
+1136614,2018,2018-05-19T14:30Z,SRH,KKR,SRH,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",172,173,KKR,Chris Lynn
+1136615,2018,2018-05-20T10:30Z,DC,MI,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",174,163,DC,Amit Mishra
+1136616,2018,2018-05-20T14:30Z,CSK,KXIP,CSK,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",153,159,CSK,Lungi Ngidi
+1136617,2018,2018-05-22T13:30Z,SRH,CSK,CSK,BOWL FIRST,"Wankhede Stadium, Mumbai",139,140,CSK,Faf du Plessis
+1136618,2018,2018-05-23T13:30Z,KKR,RR,RR,BOWL FIRST,"Eden Gardens, Kolkata",169,144,KKR,Andre Russell
+1136619,2018,2018-05-25T13:30Z,KKR,SRH,KKR,BOWL FIRST,"Eden Gardens, Kolkata",174,160,SRH,Rashid Khan
+1136620,2018,2018-05-27T14:30Z,CSK,SRH,CSK,BOWL FIRST,"Wankhede Stadium, Mumbai",178,181,CSK,Shane Watson
+1082591,2017,2017-04-05T14:30Z,SRH,RCB,RCB,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",207,172,SRH,Yuvraj Singh
+1082592,2017,2017-04-06T14:30Z,RPS,MI,RPS,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",184,187,RPS,Steven Smith
+1082593,2017,2017-04-07T14:30Z,GL,KKR,KKR,BOWL FIRST,"Saurashtra Cricket Association Stadium, Rajkot",183,184,KKR,Chris Lynn
+1082594,2017,2017-04-08T10:30Z,KXIP,RPS,KXIP,BOWL FIRST,"Holkar Cricket Stadium, Indore",163,164,KXIP,Glenn Maxwell
+1082595,2017,2017-04-08T14:30Z,RCB,DC,RCB,BAT FIRST,"M.Chinnaswamy Stadium, Bengaluru",157,142,RCB,Kedar Jadhav
+1082596,2017,2017-04-09T10:30Z,SRH,GL,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",135,140,SRH,Rashid Khan
+1082597,2017,2017-04-09T14:30Z,MI,KKR,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",178,180,MI,Nitish Rana
+1082598,2017,2017-04-10T14:30Z,KXIP,RCB,RCB,BAT FIRST,"Holkar Cricket Stadium, Indore",148,150,KXIP,Axar Patel
+1082599,2017,2017-04-11T14:30Z,RPS,DC,RPS,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",205,108,DC,Sanju Samson
+1082600,2017,2017-04-12T14:30Z,MI,SRH,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",158,159,MI,Jasprit Bumrah
+1082601,2017,2017-04-13T14:30Z,KKR,KXIP,KKR,BOWL FIRST,"Eden Gardens, Kolkata",170,171,KKR,Sunil Narine
+1082602,2017,2017-04-14T10:30Z,RCB,MI,MI,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",142,145,MI,Kieron Pollard
+1082603,2017,2017-04-14T14:30Z,GL,RPS,GL,BOWL FIRST,"Saurashtra Cricket Association Stadium, Rajkot",171,172,GL,Andrew Tye
+1082604,2017,2017-04-15T10:30Z,KKR,SRH,SRH,BOWL FIRST,"Eden Gardens, Kolkata",172,155,KKR,Robin Uthappa
+1082605,2017,2017-04-15T14:30Z,DC,KXIP,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",188,137,DC,Corey Anderson
+1082606,2017,2017-04-16T10:30Z,MI,GL,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",176,177,MI,Nitish Rana
+1082607,2017,2017-04-16T14:30Z,RCB,RPS,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",161,134,RPS,Ben Stokes
+1082608,2017,2017-04-17T10:30Z,DC,KKR,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",168,169,KKR,Nathan Coulter-Nile
+1082609,2017,2017-04-17T14:30Z,SRH,KXIP,KXIP,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",159,154,SRH,Bhuvneshwar Kumar
+1082610,2017,2017-04-18T14:30Z,GL,RCB,GL,BOWL FIRST,"Saurashtra Cricket Association Stadium, Rajkot",213,192,RCB,Chris Gayle
+1082611,2017,2017-04-19T14:30Z,SRH,DC,SRH,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",191,176,SRH,Kane Williamson
+1082612,2017,2017-04-20T14:30Z,KXIP,MI,MI,BOWL FIRST,"Holkar Cricket Stadium, Indore",198,199,MI,Jos Buttler
+1082613,2017,2017-04-21T14:30Z,KKR,GL,GL,BOWL FIRST,"Eden Gardens, Kolkata",187,188,GL,Suresh Raina
+1082615,2017,2017-04-22T10:30Z,RPS,SRH,RPS,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",176,179,RPS,MS Dhoni
+1082614,2017,2017-04-22T14:30Z,MI,DC,DC,BOWL FIRST,"Wankhede Stadium, Mumbai",142,128,MI,Mitchell McClenaghan
+1082616,2017,2017-04-23T10:30Z,GL,KXIP,GL,BOWL FIRST,"Saurashtra Cricket Association Stadium, Rajkot",188,162,KXIP,Hashim Amla
+1082617,2017,2017-04-23T14:30Z,KKR,RCB,RCB,BOWL FIRST,"Eden Gardens, Kolkata",131,49,KKR,Nathan Coulter-Nile
+1082618,2017,2017-04-24T14:30Z,MI,RPS,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",160,157,RPS,Ben Stokes
+1082620,2017,2017-04-26T14:30Z,RPS,KKR,KKR,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",182,184,KKR,Robin Uthappa
+1082621,2017,2017-04-27T14:30Z,RCB,GL,GL,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",134,135,GL,Andrew Tye
+1082622,2017,2017-04-28T10:30Z,KKR,DC,KKR,BOWL FIRST,"Eden Gardens, Kolkata",160,161,KKR,Gautam Gambhir
+1082623,2017,2017-04-28T14:30Z,KXIP,SRH,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",207,181,SRH,Rashid Khan
+1082624,2017,2017-04-29T10:30Z,RPS,RCB,RCB,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",157,96,RPS,Lockie Ferguson
+1082625,2017,2017-04-29T14:30Z,GL,MI,GL,BAT FIRST,"Saurashtra Cricket Association Stadium, Rajkot",153,153,MI,Krunal Pandya
+1082626,2017,2017-04-30T10:30Z,KXIP,DC,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",67,68,KXIP,Sandeep Sharma
+1082627,2017,2017-04-30T14:30Z,SRH,KKR,KKR,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",209,161,SRH,David Warner
+1082628,2017,2017-05-01T10:30Z,MI,RCB,RCB,BAT FIRST,"Wankhede Stadium, Mumbai",162,165,MI,Rohit Sharma
+1082629,2017,2017-05-01T14:30Z,RPS,GL,RPS,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",161,167,RPS,Ben Stokes
+1082630,2017,2017-05-02T14:30Z,DC,SRH,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",185,189,DC,Mohammed Shami
+1082631,2017,2017-05-03T14:30Z,KKR,RPS,RPS,BOWL FIRST,"Eden Gardens, Kolkata",155,158,RPS,Rahul Tripathi
+1082632,2017,2017-05-04T14:30Z,DC,GL,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",208,214,DC,Rishabh Pant
+1082633,2017,2017-05-05T14:30Z,RCB,KXIP,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",138,119,KXIP,Sandeep Sharma
+1082634,2017,2017-05-06T10:30Z,SRH,RPS,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",148,136,RPS,Jaydev Unadkat
+1082635,2017,2017-05-06T14:30Z,DC,MI,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",212,66,MI,Lendl Simmons
+1082636,2017,2017-05-07T10:30Z,RCB,KKR,KKR,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",158,159,KKR,Sunil Narine
+1082637,2017,2017-05-07T14:30Z,KXIP,GL,GL,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",189,192,GL,Dwayne Smith
+1082638,2017,2017-05-08T14:30Z,SRH,MI,MI,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",138,140,SRH,Shikhar Dhawan
+1082639,2017,2017-05-09T14:30Z,KXIP,KKR,KKR,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",167,153,KXIP,Mohit Sharma
+1082640,2017,2017-05-10T14:30Z,GL,DC,DC,BOWL FIRST,"Green Park, Kanpur",195,197,DC,Shreyas Iyer
+1082641,2017,2017-05-11T14:30Z,MI,KXIP,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",230,223,KXIP,Wriddhiman Saha
+1082642,2017,2017-05-12T14:30Z,DC,RPS,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",168,161,DC,Karun Nair
+1082643,2017,2017-05-13T10:30Z,GL,SRH,SRH,BOWL FIRST,"Green Park, Kanpur",154,158,SRH,Mohammed Siraj
+1082644,2017,2017-05-13T14:30Z,KKR,MI,KKR,BOWL FIRST,"Eden Gardens, Kolkata",173,164,MI,Ambati Rayudu
+1082645,2017,2017-05-14T10:30Z,RPS,KXIP,RPS,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",73,78,RPS,Jaydev Unadkat
+1082646,2017,2017-05-14T14:30Z,DC,RCB,RCB,BAT FIRST,"Arun Jaitley Stadium, Delhi",161,151,RCB,Harshal Patel
+1082647,2017,2017-05-16T14:30Z,MI,RPS,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",162,142,RPS,Washington Sundar
+1082648,2017,2017-05-17T14:30Z,SRH,KKR,KKR,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",128,48,KKR,Nathan Coulter-Nile
+1082649,2017,2017-05-19T14:30Z,MI,KKR,MI,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",107,111,MI,Karn Sharma
+1082650,2017,2017-05-21T14:30Z,MI,RPS,MI,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",129,128,MI,Krunal Pandya
+980901,2016,2016-04-09T14:30Z,MI,RPS,MI,BAT FIRST,"Wankhede Stadium, Mumbai",121,126,RPS,Ajinkya Rahane
+980903,2016,2016-04-10T14:30Z,KKR,DC,KKR,BOWL FIRST,"Eden Gardens, Kolkata",98,99,KKR,Andre Russell
+980905,2016,2016-04-11T14:30Z,KXIP,GL,GL,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",161,162,GL,Aaron Finch
+980907,2016,2016-04-12T14:30Z,RCB,SRH,SRH,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",227,182,RCB,AB de Villiers
+980909,2016,2016-04-13T14:30Z,KKR,MI,MI,BOWL FIRST,"Eden Gardens, Kolkata",187,188,MI,Rohit Sharma
+980911,2016,2016-04-14T14:30Z,GL,RPS,RPS,BAT FIRST,"Saurashtra Cricket Association Stadium, Rajkot",163,164,GL,Aaron Finch
+980913,2016,2016-04-15T14:30Z,DC,KXIP,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",111,113,DC,Amit Mishra
+980915,2016,2016-04-16T10:30Z,SRH,KKR,SRH,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",142,146,KKR,Gautam Gambhir
+980917,2016,2016-04-16T14:30Z,MI,GL,GL,BOWL FIRST,"Wankhede Stadium, Mumbai",143,147,GL,Aaron Finch
+980919,2016,2016-04-17T10:30Z,KXIP,RPS,RPS,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",152,153,KXIP,Manan Vohra
+980921,2016,2016-04-17T14:30Z,RCB,DC,DC,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",191,192,DC,Quinton de Kock
+980923,2016,2016-04-18T14:30Z,SRH,MI,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",142,145,SRH,David Warner
+980925,2016,2016-04-19T14:30Z,KXIP,KKR,KKR,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",138,141,KKR,Robin Uthappa
+980927,2016,2016-04-20T14:30Z,MI,RCB,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",170,171,MI,Rohit Sharma
+980929,2016,2016-04-21T14:30Z,GL,SRH,SRH,BOWL FIRST,"Saurashtra Cricket Association Stadium, Rajkot",135,137,SRH,Bhuvneshwar Kumar
+980931,2016,2016-04-22T14:30Z,RPS,RCB,RPS,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",185,172,RCB,AB de Villiers
+980933,2016,2016-04-23T10:30Z,DC,MI,MI,BOWL FIRST,"Arun Jaitley Stadium, Delhi",164,154,DC,Sanju Samson
+980935,2016,2016-04-23T14:30Z,SRH,KXIP,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",143,146,SRH,Mustafizur Rahman
+980937,2016,2016-04-24T10:30Z,GL,RCB,RCB,BAT FIRST,"Saurashtra Cricket Association Stadium, Rajkot",180,182,GL,Virat Kohli
+980939,2016,2016-04-24T14:30Z,RPS,KKR,KKR,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",160,162,KKR,Suryakumar Yadav
+980941,2016,2016-04-25T14:30Z,KXIP,MI,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",189,164,MI,Parthiv Patel
+980943,2016,2016-04-26T14:30Z,SRH,RPS,RPS,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",118,94,RPS,Ashok Dinda
+980945,2016,2016-04-27T14:30Z,DC,GL,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",172,171,GL,Chris Morris
+980947,2016,2016-04-28T14:30Z,MI,KKR,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",174,178,MI,Rohit Sharma
+980949,2016,2016-04-29T14:30Z,RPS,GL,GL,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",195,196,GL,Dwayne Smith
+980951,2016,2016-04-30T10:30Z,DC,KKR,KKR,BOWL FIRST,"Arun Jaitley Stadium, Delhi",186,159,DC,Carlos Brathwaite
+980953,2016,2016-04-30T14:30Z,SRH,RCB,RCB,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",194,179,SRH,David Warner
+980955,2016,2016-05-01T10:30Z,GL,KXIP,GL,BOWL FIRST,"Saurashtra Cricket Association Stadium, Rajkot",154,131,KXIP,Axar Patel
+980957,2016,2016-05-01T14:30Z,RPS,MI,MI,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",159,161,MI,Rohit Sharma
+980959,2016,2016-05-02T14:30Z,RCB,KKR,KKR,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",185,189,KKR,Andre Russell
+980961,2016,2016-05-03T14:30Z,GL,DC,DC,BOWL FIRST,"Saurashtra Cricket Association Stadium, Rajkot",149,150,DC,Rishabh Pant
+980963,2016,2016-05-04T14:30Z,KKR,KXIP,KXIP,BOWL FIRST,"Eden Gardens, Kolkata",164,157,KKR,Andre Russell
+980965,2016,2016-05-05T14:30Z,DC,RPS,RPS,BOWL FIRST,"Arun Jaitley Stadium, Delhi",162,166,RPS,Ajinkya Rahane
+980967,2016,2016-05-06T14:30Z,SRH,GL,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",126,129,SRH,Bhuvneshwar Kumar
+980969,2016,2016-05-07T10:30Z,RCB,RPS,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",191,195,RCB,Virat Kohli
+980971,2016,2016-05-07T14:30Z,KXIP,DC,DC,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",181,172,KXIP,Marcus Stoinis
+980973,2016,2016-05-08T10:30Z,MI,SRH,MI,BOWL FIRST,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",177,92,SRH,Ashish Nehra
+980975,2016,2016-05-08T14:30Z,KKR,GL,GL,BOWL FIRST,"Eden Gardens, Kolkata",158,164,GL,Praveen Kumar
+980977,2016,2016-05-09T14:30Z,KXIP,RCB,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",175,174,RCB,Shane Watson
+980979,2016,2016-05-10T14:30Z,RPS,SRH,SRH,BAT FIRST,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",137,133,SRH,Adam Zampa
+980981,2016,2016-05-11T14:30Z,RCB,MI,MI,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",151,153,MI,Krunal Pandya
+980983,2016,2016-05-12T14:30Z,SRH,DC,DC,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",146,150,DC,Chris Morris
+980985,2016,2016-05-13T14:30Z,MI,KXIP,MI,BAT FIRST,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",124,127,KXIP,Marcus Stoinis
+980987,2016,2016-05-14T10:30Z,RCB,GL,GL,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",248,104,RCB,AB de Villiers
+980989,2016,2016-05-14T14:30Z,KKR,RPS,RPS,BAT FIRST,"Eden Gardens, Kolkata",103,66,KKR,Yusuf Pathan
+980991,2016,2016-05-15T10:30Z,KXIP,SRH,KXIP,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",179,180,SRH,Hashim Amla
+980993,2016,2016-05-15T14:30Z,MI,DC,DC,BOWL FIRST,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",206,126,MI,Krunal Pandya
+980995,2016,2016-05-16T14:30Z,KKR,RCB,RCB,BOWL FIRST,"Eden Gardens, Kolkata",183,186,RCB,Virat Kohli
+980997,2016,2016-05-17T14:30Z,RPS,DC,RPS,BOWL FIRST,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",121,76,RPS,Ashok Dinda
+980999,2016,2016-05-18T14:30Z,RCB,KXIP,KXIP,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",211,120,RCB,Virat Kohli
+981001,2016,2016-05-19T14:30Z,GL,KKR,GL,BOWL FIRST,"Green Park, Kanpur",124,125,GL,Dwayne Smith
+981003,2016,2016-05-20T14:30Z,DC,SRH,DC,BOWL FIRST,"Shaheed Veer Narayan Singh International Stadium, Raipur",158,161,DC,Karun Nair
+981005,2016,2016-05-21T10:30Z,RPS,KXIP,KXIP,BAT FIRST,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",172,173,RPS,MS Dhoni
+981007,2016,2016-05-21T14:30Z,GL,MI,GL,BOWL FIRST,"Green Park, Kanpur",172,173,GL,Suresh Raina
+981009,2016,2016-05-22T10:30Z,KKR,SRH,SRH,BOWL FIRST,"Eden Gardens, Kolkata",171,149,KKR,Yusuf Pathan
+981011,2016,2016-05-22T14:30Z,DC,RCB,RCB,BOWL FIRST,"Shaheed Veer Narayan Singh International Stadium, Raipur",138,139,RCB,Virat Kohli
+981013,2016,2016-05-24T14:30Z,RCB,GL,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",158,159,RCB,AB de Villiers
+981015,2016,2016-05-25T14:30Z,KKR,SRH,KKR,BOWL FIRST,"Arun Jaitley Stadium, Delhi",162,140,SRH,Moises Henriques
+981017,2016,2016-05-27T14:30Z,GL,SRH,SRH,BOWL FIRST,"Arun Jaitley Stadium, Delhi",162,163,SRH,David Warner
+981019,2016,2016-05-29T14:30Z,RCB,SRH,SRH,BAT FIRST,"M.Chinnaswamy Stadium, Bengaluru",208,200,SRH,Ben Cutting
+829705,2015,2015-04-08T14:30Z,KKR,MI,KKR,BOWL FIRST,"Eden Gardens, Kolkata",168,170,KKR,Morne Morkel
+829707,2015,2015-04-09T14:30Z,CSK,DC,DC,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",150,149,CSK,Ashish Nehra
+829709,2015,2015-04-10T14:30Z,KXIP,RR,KXIP,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",162,136,RR,James Faulkner
+829711,2015,2015-04-11T10:30Z,CSK,SRH,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",209,164,CSK,Brendon McCullum
+829713,2015,2015-04-11T14:30Z,KKR,RCB,RCB,BOWL FIRST,"Eden Gardens, Kolkata",177,179,RCB,Chris Gayle
+829715,2015,2015-04-12T10:30Z,DC,RR,RR,BOWL FIRST,"Arun Jaitley Stadium, Delhi",184,186,RR,Deepak Hooda
+829717,2015,2015-04-12T14:30Z,MI,KXIP,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",177,159,KXIP,George Bailey
+829719,2015,2015-04-13T14:30Z,RCB,SRH,SRH,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",166,172,SRH,David Warner
+829721,2015,2015-04-14T14:30Z,RR,MI,MI,BAT FIRST,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",164,165,RR,Steven Smith
+829725,2015,2015-04-15T14:30Z,KXIP,DC,KXIP,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",165,169,DC,Mayank Agarwal
+829727,2015,2015-04-16T14:30Z,SRH,RR,RR,BOWL FIRST,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",127,131,RR,Ajinkya Rahane
+829729,2015,2015-04-17T14:30Z,MI,CSK,MI,BAT FIRST,"Wankhede Stadium, Mumbai",183,189,CSK,Ashish Nehra
+829731,2015,2015-04-18T10:30Z,SRH,DC,DC,BAT FIRST,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",167,163,DC,Jean-Paul Duminy
+829733,2015,2015-04-18T14:30Z,KXIP,KKR,KKR,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",155,159,KKR,Andre Russell
+829735,2015,2015-04-19T10:30Z,RR,CSK,CSK,BAT FIRST,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",156,157,RR,Ajinkya Rahane
+829737,2015,2015-04-19T14:30Z,RCB,MI,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",209,191,MI,Harbhajan Singh
+829739,2015,2015-04-20T14:30Z,DC,KKR,KKR,BOWL FIRST,"Arun Jaitley Stadium, Delhi",146,147,KKR,Umesh Yadav
+829741,2015,2015-04-21T14:30Z,RR,KXIP,KXIP,BOWL FIRST,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",191,191,KXIP,Shaun Marsh
+829743,2015,2015-04-22T10:30Z,SRH,KKR,KKR,BOWL FIRST,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",176,101,SRH,David Warner
+829745,2015,2015-04-22T14:30Z,RCB,CSK,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",181,154,CSK,Suresh Raina
+829747,2015,2015-04-23T14:30Z,DC,MI,MI,BOWL FIRST,"Arun Jaitley Stadium, Delhi",190,153,DC,Shreyas Iyer
+829749,2015,2015-04-24T14:30Z,RR,RCB,RCB,BOWL FIRST,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",130,134,RCB,Mitchell Starc
+829751,2015,2015-04-25T10:30Z,MI,SRH,MI,BAT FIRST,"Wankhede Stadium, Mumbai",157,137,MI,Lasith Malinga
+829753,2015,2015-04-25T14:30Z,CSK,KXIP,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",192,95,CSK,Brendon McCullum
+829757,2015,2015-04-26T14:30Z,DC,RCB,RCB,BOWL FIRST,"Arun Jaitley Stadium, Delhi",95,99,RCB,Varun Aaron
+829759,2015,2015-04-27T14:30Z,KXIP,SRH,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",150,130,SRH,Trent Boult
+829765,2015,2015-04-28T14:30Z,CSK,KKR,KKR,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",134,132,CSK,Dwayne Bravo
+829723,2015,2015-04-30T14:30Z,KKR,CSK,KKR,BOWL FIRST,"Eden Gardens, Kolkata",165,169,KKR,Andre Russell
+829767,2015,2015-05-01T10:30Z,DC,KXIP,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",118,119,DC,Nathan Coulter-Nile
+829769,2015,2015-05-01T14:30Z,MI,RR,RR,BOWL FIRST,"Wankhede Stadium, Mumbai",187,179,MI,Ambati Rayudu
+829771,2015,2015-05-02T10:30Z,RCB,KKR,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",111,115,RCB,Mandeep Singh
+829773,2015,2015-05-02T14:30Z,SRH,CSK,CSK,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",192,170,SRH,David Warner
+829775,2015,2015-05-03T10:30Z,KXIP,MI,MI,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",172,149,MI,Lendl Simmons
+829777,2015,2015-05-03T14:30Z,RR,DC,DC,BOWL FIRST,"Brabourne Stadium, Mumbai",189,175,RR,Ajinkya Rahane
+829779,2015,2015-05-04T10:30Z,CSK,RCB,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",148,124,CSK,Suresh Raina
+829781,2015,2015-05-04T14:30Z,KKR,SRH,SRH,BOWL FIRST,"Eden Gardens, Kolkata",167,132,KKR,Umesh Yadav
+829783,2015,2015-05-05T14:30Z,MI,DC,DC,BAT FIRST,"Wankhede Stadium, Mumbai",152,153,MI,Harbhajan Singh
+829785,2015,2015-05-06T14:30Z,RCB,KXIP,KXIP,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",226,88,RCB,Chris Gayle
+829787,2015,2015-05-07T10:30Z,RR,SRH,RR,BOWL FIRST,"Brabourne Stadium, Mumbai",201,194,SRH,Eoin Morgan
+829761,2015,2015-05-07T14:30Z,KKR,DC,KKR,BAT FIRST,"Eden Gardens, Kolkata",171,158,KKR,Piyush Chawla
+829789,2015,2015-05-08T14:30Z,CSK,MI,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",158,159,MI,Hardik Pandya
+829791,2015,2015-05-09T10:30Z,KKR,KXIP,KXIP,BAT FIRST,"Eden Gardens, Kolkata",183,184,KKR,Andre Russell
+829793,2015,2015-05-09T14:30Z,DC,SRH,SRH,BAT FIRST,"Shaheed Veer Narayan Singh International Stadium, Raipur",163,157,SRH,Moises Henriques
+829795,2015,2015-05-10T10:30Z,MI,RCB,RCB,BAT FIRST,"Wankhede Stadium, Mumbai",235,196,RCB,AB de Villiers
+829797,2015,2015-05-10T14:30Z,CSK,RR,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",157,145,CSK,Ravindra Jadeja
+829799,2015,2015-05-11T14:30Z,SRH,KXIP,SRH,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",185,180,SRH,David Warner
+829801,2015,2015-05-12T14:30Z,DC,CSK,CSK,BAT FIRST,"Shaheed Veer Narayan Singh International Stadium, Raipur",119,120,DC,Zaheer Khan
+829803,2015,2015-05-13T14:30Z,KXIP,RCB,RCB,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",106,84,KXIP,Axar Patel
+829805,2015,2015-05-14T14:30Z,MI,KKR,KKR,BOWL FIRST,"Wankhede Stadium, Mumbai",171,166,MI,Hardik Pandya
+829807,2015,2015-05-15T14:30Z,SRH,RCB,SRH,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",135,83,RCB,Virat Kohli
+829809,2015,2015-05-16T10:30Z,KXIP,CSK,KXIP,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",130,134,CSK,Pawan Negi
+829811,2015,2015-05-16T14:30Z,RR,KKR,RR,BAT FIRST,"Brabourne Stadium, Mumbai",199,190,RR,Shane Watson
+829813,2015,2015-05-17T10:30Z,RCB,DC,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",187,2,RCB,None
+829815,2015,2015-05-17T14:30Z,SRH,MI,SRH,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",113,114,MI,Mitchell McClenaghan
+829817,2015,2015-05-19T14:30Z,CSK,MI,MI,BAT FIRST,"Wankhede Stadium, Mumbai",187,162,MI,Kieron Pollard
+829819,2015,2015-05-20T14:30Z,RR,RCB,RCB,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",180,109,RCB,AB de Villiers
+829821,2015,2015-05-22T14:30Z,CSK,RCB,CSK,BOWL FIRST,"JSCA International Stadium Complex, Ranchi",139,140,CSK,Ashish Nehra
+829823,2015,2015-05-24T14:30Z,CSK,MI,CSK,BOWL FIRST,"Eden Gardens, Kolkata",202,161,MI,Rohit Sharma
+729279,2014,2014-04-16T14:30Z,MI,KKR,KKR,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",163,122,KKR,Jacques Kallis
+729281,2014,2014-04-17T14:30Z,DC,RCB,RCB,BOWL FIRST,Sharjah Cricket Stadium,145,146,RCB,Yuzvendra Chahal
+729283,2014,2014-04-18T10:30Z,CSK,KXIP,CSK,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",205,206,KXIP,Glenn Maxwell
+729285,2014,2014-04-18T14:30Z,SRH,RR,RR,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",133,135,RR,Ajinkya Rahane
+729287,2014,2014-04-19T10:30Z,RCB,MI,RCB,BOWL FIRST,Dubai International Cricket Stadium,115,116,RCB,Parthiv Patel
+729289,2014,2014-04-19T14:30Z,KKR,DC,KKR,BAT FIRST,Dubai International Cricket Stadium,166,167,DC,Jean-Paul Duminy
+729291,2014,2014-04-20T14:30Z,RR,KXIP,KXIP,BOWL FIRST,Sharjah Cricket Stadium,191,193,KXIP,Glenn Maxwell
+729293,2014,2014-04-21T14:30Z,CSK,DC,CSK,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",177,84,CSK,Suresh Raina
+729295,2014,2014-04-22T14:30Z,KXIP,SRH,SRH,BOWL FIRST,Sharjah Cricket Stadium,193,121,KXIP,Glenn Maxwell
+729297,2014,2014-04-23T14:30Z,RR,CSK,RR,BOWL FIRST,Dubai International Cricket Stadium,140,133,CSK,Ravindra Jadeja
+729299,2014,2014-04-24T14:30Z,RCB,KKR,RCB,BOWL FIRST,Sharjah Cricket Stadium,150,148,KKR,Chris Lynn
+729301,2014,2014-04-25T10:30Z,SRH,DC,SRH,BAT FIRST,Dubai International Cricket Stadium,184,180,SRH,Aaron Finch
+729303,2014,2014-04-25T14:30Z,CSK,MI,MI,BAT FIRST,Dubai International Cricket Stadium,141,142,CSK,Mohit Sharma
+729305,2014,2014-04-26T10:30Z,RR,RCB,RR,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",70,71,RR,Pravin Tambe
+729307,2014,2014-04-26T14:30Z,KKR,KXIP,KKR,BOWL FIRST,"Sheikh Zayed Stadium, Abu Dhabi",132,109,KXIP,Sandeep Sharma
+729309,2014,2014-04-27T10:30Z,DC,MI,MI,BAT FIRST,Sharjah Cricket Stadium,125,126,DC,Murali Vijay
+729311,2014,2014-04-27T14:30Z,SRH,CSK,SRH,BAT FIRST,Sharjah Cricket Stadium,145,146,CSK,Dwayne Smith
+729313,2014,2014-04-28T14:30Z,KXIP,RCB,KXIP,BOWL FIRST,Dubai International Cricket Stadium,124,127,KXIP,Sandeep Sharma
+729315,2014,2014-04-29T14:30Z,KKR,RR,RR,BAT FIRST,"Sheikh Zayed Stadium, Abu Dhabi",152,152,KKR,James Faulkner
+729317,2014,2014-04-30T14:30Z,MI,SRH,MI,BOWL FIRST,Dubai International Cricket Stadium,172,157,SRH,Bhuvneshwar Kumar
+733971,2014,2014-05-02T14:30Z,CSK,KKR,CSK,BAT FIRST,"JSCA International Stadium Complex, Ranchi",148,114,CSK,Ravindra Jadeja
+733973,2014,2014-05-03T10:30Z,MI,KXIP,KXIP,BAT FIRST,"Wankhede Stadium, Mumbai",168,170,MI,Corey Anderson
+733975,2014,2014-05-03T14:30Z,DC,RR,RR,BOWL FIRST,"Arun Jaitley Stadium, Delhi",152,156,RR,Karun Nair
+733977,2014,2014-05-04T14:30Z,RCB,SRH,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",155,158,RCB,AB de Villiers
+733979,2014,2014-05-05T10:30Z,RR,KKR,KKR,BOWL FIRST,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",170,160,RR,Pravin Tambe
+733981,2014,2014-05-05T14:30Z,DC,CSK,CSK,BOWL FIRST,"Arun Jaitley Stadium, Delhi",178,181,CSK,Dwayne Smith
+733983,2014,2014-05-06T14:30Z,MI,RCB,RCB,BOWL FIRST,"Wankhede Stadium, Mumbai",187,168,MI,Rohit Sharma
+733985,2014,2014-05-07T10:30Z,DC,KKR,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",160,161,KKR,Gautam Gambhir
+733987,2014,2014-05-07T14:30Z,KXIP,CSK,CSK,BOWL FIRST,"Barabati Stadium, Cuttack",231,187,KXIP,Glenn Maxwell
+733989,2014,2014-05-08T14:30Z,RR,SRH,RR,BOWL FIRST,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",134,102,SRH,Bhuvneshwar Kumar
+733991,2014,2014-05-09T14:30Z,RCB,KXIP,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",198,166,KXIP,Sandeep Sharma
+733993,2014,2014-05-10T10:30Z,DC,SRH,SRH,BOWL FIRST,"Arun Jaitley Stadium, Delhi",143,44,SRH,Dale Steyn
+733995,2014,2014-05-10T14:30Z,MI,CSK,CSK,BOWL FIRST,"Wankhede Stadium, Mumbai",157,160,CSK,Dwayne Smith
+733997,2014,2014-05-11T10:30Z,KXIP,KKR,KKR,BOWL FIRST,"Barabati Stadium, Cuttack",149,150,KKR,Gautam Gambhir
+733999,2014,2014-05-11T14:30Z,RCB,RR,RCB,BAT FIRST,"M.Chinnaswamy Stadium, Bengaluru",190,191,RR,James Faulkner
+734001,2014,2014-05-12T14:30Z,SRH,MI,SRH,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",157,160,MI,Ambati Rayudu
+734003,2014,2014-05-13T10:30Z,CSK,RR,RR,BAT FIRST,"JSCA International Stadium Complex, Ranchi",148,149,CSK,Ravindra Jadeja
+734005,2014,2014-05-13T14:30Z,RCB,DC,DC,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",186,170,RCB,Yuvraj Singh
+734007,2014,2014-05-14T10:30Z,SRH,KXIP,KXIP,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",205,211,KXIP,Wriddhiman Saha
+734009,2014,2014-05-14T14:30Z,KKR,MI,KKR,BOWL FIRST,"Barabati Stadium, Cuttack",141,142,KKR,Robin Uthappa
+734011,2014,2014-05-15T14:30Z,RR,DC,DC,BOWL FIRST,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",201,139,RR,Ajinkya Rahane
+734013,2014,2014-05-18T10:30Z,CSK,RCB,CSK,BAT FIRST,"JSCA International Stadium Complex, Ranchi",138,142,RCB,AB de Villiers
+734015,2014,2014-05-18T14:30Z,SRH,KKR,SRH,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",142,146,KKR,Umesh Yadav
+734017,2014,2014-05-19T10:30Z,RR,MI,MI,BAT FIRST,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",178,153,MI,Michael Hussey
+734019,2014,2014-05-19T14:30Z,DC,KXIP,KXIP,BOWL FIRST,"Arun Jaitley Stadium, Delhi",164,165,KXIP,Axar Patel
+734021,2014,2014-05-20T10:30Z,SRH,RCB,RCB,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",160,161,SRH,David Warner
+734023,2014,2014-05-20T14:30Z,KKR,CSK,KKR,BOWL FIRST,"Eden Gardens, Kolkata",154,156,KKR,Robin Uthappa
+734025,2014,2014-05-21T14:30Z,KXIP,MI,MI,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",156,159,MI,Lendl Simmons
+734027,2014,2014-05-22T10:30Z,KKR,RCB,RCB,BOWL FIRST,"Eden Gardens, Kolkata",195,165,KKR,Robin Uthappa
+734029,2014,2014-05-22T14:30Z,CSK,SRH,SRH,BOWL FIRST,"JSCA International Stadium Complex, Ranchi",185,189,SRH,David Warner
+734031,2014,2014-05-23T10:30Z,MI,DC,DC,BOWL FIRST,"Wankhede Stadium, Mumbai",173,158,MI,Michael Hussey
+734033,2014,2014-05-23T14:30Z,KXIP,RR,RR,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",179,163,KXIP,Shaun Marsh
+734035,2014,2014-05-24T10:30Z,RCB,CSK,CSK,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",154,160,CSK,MS Dhoni
+734037,2014,2014-05-24T14:30Z,KKR,SRH,KKR,BOWL FIRST,"Eden Gardens, Kolkata",160,161,KKR,Yusuf Pathan
+734039,2014,2014-05-25T10:30Z,KXIP,DC,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",115,119,KXIP,Manan Vohra
+734041,2014,2014-05-25T14:30Z,MI,RR,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",189,195,MI,Corey Anderson
+734043,2014,2014-05-27T14:30Z,KKR,KXIP,KXIP,BOWL FIRST,"Eden Gardens, Kolkata",163,135,KKR,Umesh Yadav
+734045,2014,2014-05-28T14:30Z,MI,CSK,CSK,BOWL FIRST,"Brabourne Stadium, Mumbai",173,176,CSK,Suresh Raina
+734047,2014,2014-05-30T14:30Z,CSK,KXIP,CSK,BOWL FIRST,"Wankhede Stadium, Mumbai",226,202,KXIP,Virender Sehwag
+734049,2014,2014-06-01T14:30Z,KXIP,KKR,KKR,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",199,200,KKR,Manish Pandey
+597998,2013,2013-04-03T14:30Z,KKR,DC,KKR,BOWL FIRST,"Eden Gardens, Kolkata",128,129,KKR,Sunil Narine
+597999,2013,2013-04-04T14:30Z,RCB,MI,MI,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",156,154,RCB,Chris Gayle
+598000,2013,2013-04-05T14:30Z,SRH,PWI,PWI,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",126,104,SRH,Amit Mishra
+598001,2013,2013-04-06T10:30Z,DC,RR,RR,BAT FIRST,"Arun Jaitley Stadium, Delhi",165,160,RR,Rahul Dravid
+598002,2013,2013-04-06T14:30Z,CSK,MI,MI,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",148,139,MI,Kieron Pollard
+598003,2013,2013-04-07T10:30Z,PWI,KXIP,PWI,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",99,100,KXIP,Manan Vohra
+598004,2013,2013-04-07T14:30Z,SRH,RCB,RCB,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",130,130,SRH,Hanuma Vihari
+598005,2013,2013-04-08T14:30Z,RR,KKR,KKR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",144,125,RR,Siddharth Trivedi
+598048,2013,2013-04-09T10:30Z,RCB,SRH,SRH,BAT FIRST,"M.Chinnaswamy Stadium, Bengaluru",161,162,RCB,Virat Kohli
+598006,2013,2013-04-09T14:30Z,MI,DC,MI,BAT FIRST,"Wankhede Stadium, Mumbai",209,165,MI,Dinesh Karthik
+598007,2013,2013-04-10T14:30Z,KXIP,CSK,CSK,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",138,139,CSK,Michael Hussey
+598008,2013,2013-04-11T10:30Z,RCB,KKR,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",154,158,RCB,Chris Gayle
+598009,2013,2013-04-11T14:30Z,PWI,RR,RR,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",145,148,PWI,Aaron Finch
+598010,2013,2013-04-12T14:30Z,DC,SRH,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",114,115,SRH,Amit Mishra
+598011,2013,2013-04-13T10:30Z,MI,PWI,MI,BAT FIRST,"Wankhede Stadium, Mumbai",183,142,MI,Rohit Sharma
+598012,2013,2013-04-13T14:30Z,CSK,RCB,CSK,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",165,166,CSK,Ravindra Jadeja
+598013,2013,2013-04-14T10:30Z,KKR,SRH,KKR,BAT FIRST,"Eden Gardens, Kolkata",180,132,KKR,Gautam Gambhir
+598014,2013,2013-04-14T14:30Z,RR,KXIP,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",124,126,RR,James Faulkner
+598015,2013,2013-04-15T14:30Z,CSK,PWI,PWI,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",159,135,PWI,Steven Smith
+598016,2013,2013-04-16T10:30Z,KXIP,KKR,KKR,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",157,153,KXIP,Manpreet Gony
+598017,2013,2013-04-16T14:30Z,RCB,DC,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",152,152,RCB,Virat Kohli
+598018,2013,2013-04-17T10:30Z,PWI,SRH,PWI,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",119,108,SRH,Amit Mishra
+598019,2013,2013-04-17T14:30Z,RR,MI,RR,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",179,92,RR,Ajinkya Rahane
+598020,2013,2013-04-18T14:30Z,DC,CSK,CSK,BAT FIRST,"Arun Jaitley Stadium, Delhi",169,83,CSK,Michael Hussey
+598021,2013,2013-04-19T14:30Z,SRH,KXIP,KXIP,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",123,127,SRH,Hanuma Vihari
+598022,2013,2013-04-20T10:30Z,KKR,CSK,KKR,BAT FIRST,"Eden Gardens, Kolkata",119,124,CSK,Ravindra Jadeja
+598023,2013,2013-04-20T14:30Z,RCB,RR,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",117,123,RCB,Vinay Kumar
+598024,2013,2013-04-21T10:30Z,DC,MI,MI,BAT FIRST,"Arun Jaitley Stadium, Delhi",161,165,DC,Virender Sehwag
+598025,2013,2013-04-21T14:30Z,KXIP,PWI,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",185,186,KXIP,David Miller
+598026,2013,2013-04-22T14:30Z,CSK,RR,RR,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",185,186,CSK,Michael Hussey
+598027,2013,2013-04-23T10:30Z,RCB,PWI,PWI,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",263,133,RCB,Chris Gayle
+598059,2013,2013-04-23T14:30Z,DC,KXIP,KXIP,BOWL FIRST,"Arun Jaitley Stadium, Delhi",120,121,KXIP,Harmeet Singh
+598029,2013,2013-04-24T14:30Z,KKR,MI,KKR,BAT FIRST,"Eden Gardens, Kolkata",159,162,MI,Dwayne Smith
+598030,2013,2013-04-25T14:30Z,CSK,SRH,SRH,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",159,160,CSK,MS Dhoni
+598031,2013,2013-04-26T14:30Z,KKR,KXIP,KXIP,BAT FIRST,"Eden Gardens, Kolkata",149,150,KKR,Jacques Kallis
+598032,2013,2013-04-27T10:30Z,RR,SRH,SRH,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",144,146,RR,James Faulkner
+598033,2013,2013-04-27T14:30Z,MI,RCB,MI,BAT FIRST,"Wankhede Stadium, Mumbai",194,136,MI,Dwayne Smith
+598034,2013,2013-04-28T10:30Z,CSK,KKR,KKR,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",200,186,CSK,Michael Hussey
+598035,2013,2013-04-28T14:30Z,DC,PWI,PWI,BOWL FIRST,"Shaheed Veer Narayan Singh International Stadium, Raipur",164,149,DC,David Warner
+598036,2013,2013-04-29T10:30Z,RR,RCB,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",171,173,RR,Sanju Samson
+598037,2013,2013-04-29T14:30Z,MI,KXIP,MI,BAT FIRST,"Wankhede Stadium, Mumbai",174,170,MI,Rohit Sharma
+598038,2013,2013-04-30T14:30Z,PWI,CSK,CSK,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",164,127,CSK,MS Dhoni
+598039,2013,2013-05-01T10:30Z,SRH,MI,MI,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",129,130,SRH,Ishant Sharma
+598040,2013,2013-05-01T14:30Z,DC,KKR,KKR,BAT FIRST,"Shaheed Veer Narayan Singh International Stadium, Raipur",136,137,DC,David Warner
+598041,2013,2013-05-02T10:30Z,CSK,KXIP,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",186,171,CSK,Suresh Raina
+598042,2013,2013-05-02T14:30Z,PWI,RCB,RCB,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",187,170,RCB,AB de Villiers
+598043,2013,2013-05-03T14:30Z,KKR,RR,RR,BAT FIRST,"Eden Gardens, Kolkata",132,133,KKR,Yusuf Pathan
+598044,2013,2013-05-04T14:30Z,SRH,DC,DC,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",80,81,SRH,Daren Sammy
+598046,2013,2013-05-05T10:30Z,MI,CSK,MI,BAT FIRST,"Wankhede Stadium, Mumbai",139,79,MI,Mitchell Johnson
+598047,2013,2013-05-05T14:30Z,RR,PWI,PWI,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",178,182,RR,Ajinkya Rahane
+598064,2013,2013-05-06T14:30Z,KXIP,RCB,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",190,194,KXIP,David Miller
+598049,2013,2013-05-07T10:30Z,RR,DC,DC,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",154,155,RR,Ajinkya Rahane
+598050,2013,2013-05-07T14:30Z,MI,KKR,MI,BAT FIRST,"Wankhede Stadium, Mumbai",170,105,MI,Sachin Tendulkar
+598051,2013,2013-05-08T14:30Z,SRH,CSK,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",223,146,CSK,Suresh Raina
+598052,2013,2013-05-09T10:30Z,KXIP,RR,RR,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",145,147,RR,Kevon Cooper
+598053,2013,2013-05-09T14:30Z,PWI,KKR,KKR,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",152,106,KKR,Gautam Gambhir
+598054,2013,2013-05-10T14:30Z,DC,RCB,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",183,179,RCB,Jaydev Unadkat
+598055,2013,2013-05-11T10:30Z,PWI,MI,PWI,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",112,116,MI,Mitchell Johnson
+598056,2013,2013-05-11T14:30Z,KXIP,SRH,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",150,120,SRH,Parthiv Patel
+598057,2013,2013-05-12T10:30Z,KKR,RCB,KKR,BOWL FIRST,"JSCA International Stadium Complex, Ranchi",115,116,KKR,Jacques Kallis
+598058,2013,2013-05-12T14:30Z,RR,CSK,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",141,144,RR,Shane Watson
+598060,2013,2013-05-13T14:30Z,MI,SRH,SRH,BAT FIRST,"Wankhede Stadium, Mumbai",178,184,MI,Kieron Pollard
+598045,2013,2013-05-14T10:30Z,RCB,KXIP,KXIP,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",174,176,KXIP,Adam Gilchrist
+598062,2013,2013-05-14T14:30Z,CSK,DC,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",168,135,CSK,MS Dhoni
+598061,2013,2013-05-15T10:30Z,KKR,PWI,KKR,BOWL FIRST,"JSCA International Stadium Complex, Ranchi",170,163,PWI,Manish Pandey
+598063,2013,2013-05-15T14:30Z,MI,RR,RR,BOWL FIRST,"Wankhede Stadium, Mumbai",166,152,MI,Aditya Tare
+598028,2013,2013-05-16T14:30Z,KXIP,DC,DC,BOWL FIRST,"Himachal Pradesh Cricket Association Stadium, Dharamsala",171,164,KXIP,David Miller
+598065,2013,2013-05-17T14:30Z,SRH,RR,SRH,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",136,113,SRH,Amit Mishra
+598066,2013,2013-05-18T10:30Z,KXIP,MI,MI,BOWL FIRST,"Himachal Pradesh Cricket Association Stadium, Dharamsala",183,133,KXIP,Azhar Mahmood
+598068,2013,2013-05-18T14:30Z,RCB,CSK,CSK,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",106,82,RCB,Virat Kohli
+598067,2013,2013-05-19T10:30Z,PWI,DC,PWI,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",172,134,PWI,Luke Wright
+598069,2013,2013-05-19T14:30Z,SRH,KKR,KKR,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",130,132,SRH,Parthiv Patel
+598070,2013,2013-05-21T14:30Z,CSK,MI,CSK,BAT FIRST,"Arun Jaitley Stadium, Delhi",192,144,CSK,Michael Hussey
+598071,2013,2013-05-22T14:30Z,RR,SRH,SRH,BAT FIRST,"Arun Jaitley Stadium, Delhi",132,135,RR,Brad Hodge
+598072,2013,2013-05-24T14:30Z,MI,RR,RR,BAT FIRST,"Eden Gardens, Kolkata",165,169,MI,Harbhajan Singh
+598073,2013,2013-05-26T14:30Z,CSK,MI,MI,BAT FIRST,"Eden Gardens, Kolkata",148,125,MI,Kieron Pollard
+548306,2012,2012-04-04T14:30Z,CSK,MI,MI,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",112,115,MI,Richard Levi
+548307,2012,2012-04-05T14:30Z,KKR,DC,DC,BOWL FIRST,"Eden Gardens, Kolkata",97,100,DC,Irfan Pathan
+548308,2012,2012-04-06T10:30Z,MI,PWI,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",129,101,PWI,Steven Smith
+548309,2012,2012-04-06T14:30Z,RR,KXIP,KXIP,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",191,160,RR,Ajinkya Rahane
+548310,2012,2012-04-07T10:30Z,RCB,DC,DC,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",157,137,RCB,AB de Villiers
+548311,2012,2012-04-07T14:30Z,SRH,CSK,SRH,BOWL FIRST,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",193,119,CSK,Ravindra Jadeja
+548312,2012,2012-04-08T10:30Z,RR,KKR,KKR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",164,142,RR,Brad Hodge
+548313,2012,2012-04-08T14:30Z,PWI,KXIP,PWI,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",166,144,PWI,Marlon Samuels
+548314,2012,2012-04-09T14:30Z,SRH,MI,SRH,BAT FIRST,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",138,142,MI,Rohit Sharma
+548315,2012,2012-04-10T10:30Z,RCB,KKR,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",165,123,KKR,Lakshmipathy Balaji
+548316,2012,2012-04-10T14:30Z,DC,CSK,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",110,111,DC,Morne Morkel
+548317,2012,2012-04-11T14:30Z,MI,RR,RR,BOWL FIRST,"Wankhede Stadium, Mumbai",197,170,MI,Kieron Pollard
+548318,2012,2012-04-12T10:30Z,CSK,RCB,RCB,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",205,208,CSK,Faf du Plessis
+548319,2012,2012-04-12T14:30Z,KXIP,PWI,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",115,116,KXIP,Dimitri Mascarenhas
+548320,2012,2012-04-13T14:30Z,KKR,RR,RR,BAT FIRST,"Eden Gardens, Kolkata",131,137,KKR,Shakib Al Hasan
+548322,2012,2012-04-14T14:30Z,PWI,CSK,CSK,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",155,156,PWI,Jesse Ryder
+548323,2012,2012-04-15T10:30Z,KKR,KXIP,KKR,BOWL FIRST,"Eden Gardens, Kolkata",134,132,KXIP,Sunil Narine
+548324,2012,2012-04-15T14:30Z,RCB,RR,RR,BAT FIRST,"M.Chinnaswamy Stadium, Bengaluru",195,136,RR,Ajinkya Rahane
+548325,2012,2012-04-16T14:30Z,MI,DC,DC,BOWL FIRST,"Wankhede Stadium, Mumbai",92,93,DC,Shahbaz Nadeem
+548326,2012,2012-04-17T10:30Z,RR,SRH,SRH,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",196,197,RR,Brad Hodge
+548327,2012,2012-04-17T14:30Z,RCB,PWI,PWI,BAT FIRST,"M.Chinnaswamy Stadium, Bengaluru",182,186,RCB,Chris Gayle
+548328,2012,2012-04-18T14:30Z,KXIP,KKR,KXIP,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",124,127,KKR,Gautam Gambhir
+548321,2012,2012-04-19T10:30Z,DC,SRH,SRH,BAT FIRST,"Arun Jaitley Stadium, Delhi",157,162,DC,Kevin Pietersen
+548330,2012,2012-04-19T14:30Z,CSK,PWI,PWI,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",164,151,CSK,Nuwan Kulasekara
+548331,2012,2012-04-20T14:30Z,KXIP,RCB,RCB,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",163,166,RCB,Chris Gayle
+548332,2012,2012-04-21T10:30Z,CSK,RR,RR,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",146,147,CSK,Faf du Plessis
+548333,2012,2012-04-21T14:30Z,DC,PWI,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",192,172,PWI,Sourav Ganguly
+548334,2012,2012-04-22T10:30Z,MI,KXIP,MI,BAT FIRST,"Wankhede Stadium, Mumbai",163,164,KXIP,Shaun Marsh
+548335,2012,2012-04-22T14:30Z,SRH,KKR,KKR,BOWL FIRST,"Barabati Stadium, Cuttack",126,127,KKR,Brett Lee
+548336,2012,2012-04-23T14:30Z,RR,RCB,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",189,143,RCB,AB de Villiers
+548337,2012,2012-04-24T10:30Z,PWI,DC,PWI,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",146,148,DC,Virender Sehwag
+548339,2012,2012-04-25T10:30Z,KXIP,MI,KXIP,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",168,171,MI,Ambati Rayudu
+548341,2012,2012-04-26T14:30Z,PWI,SRH,SRH,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",177,159,SRH,Cameron White
+548342,2012,2012-04-27T14:30Z,DC,MI,MI,BOWL FIRST,"Arun Jaitley Stadium, Delhi",207,170,DC,Virender Sehwag
+548343,2012,2012-04-28T10:30Z,CSK,KXIP,KXIP,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",156,149,KXIP,Mandeep Singh
+548344,2012,2012-04-28T14:30Z,KKR,RCB,KKR,BAT FIRST,"Eden Gardens, Kolkata",190,143,KKR,Gautam Gambhir
+548345,2012,2012-04-29T10:30Z,DC,RR,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",152,151,DC,Virender Sehwag
+548346,2012,2012-04-29T14:30Z,MI,SRH,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",100,101,MI,Dale Steyn
+548347,2012,2012-04-30T14:30Z,CSK,KKR,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",139,140,KKR,Gautam Gambhir
+548348,2012,2012-05-01T10:30Z,SRH,PWI,SRH,BAT FIRST,"Barabati Stadium, Cuttack",186,173,SRH,Kumar Sangakkara
+548349,2012,2012-05-01T14:30Z,RR,DC,RR,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",141,144,DC,Pawan Negi
+548350,2012,2012-05-02T14:30Z,RCB,KXIP,KXIP,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",158,163,KXIP,Azhar Mahmood
+548351,2012,2012-05-03T14:30Z,PWI,MI,MI,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",120,119,MI,Lasith Malinga
+548352,2012,2012-05-04T14:30Z,CSK,SRH,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",160,150,CSK,Suresh Raina
+548353,2012,2012-05-05T10:30Z,KKR,PWI,KKR,BAT FIRST,"Eden Gardens, Kolkata",150,143,KKR,Sunil Narine
+548354,2012,2012-05-05T14:30Z,KXIP,RR,RR,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",177,134,RR,Shane Watson
+548355,2012,2012-05-06T10:30Z,MI,CSK,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",173,174,MI,Dwayne Smith
+548356,2012,2012-05-06T14:30Z,RCB,SRH,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",181,185,RCB,AB de Villiers
+548357,2012,2012-05-07T14:30Z,DC,KKR,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",153,154,KKR,Jacques Kallis
+548358,2012,2012-05-08T10:30Z,PWI,RR,PWI,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",125,126,RR,Shane Watson
+548359,2012,2012-05-08T14:30Z,SRH,KXIP,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",170,145,KXIP,Mandeep Singh
+548360,2012,2012-05-09T14:30Z,MI,RCB,RCB,BOWL FIRST,"Wankhede Stadium, Mumbai",141,142,RCB,Chris Gayle
+548329,2012,2012-05-10T10:30Z,SRH,DC,SRH,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",187,193,DC,David Warner
+548361,2012,2012-05-10T14:30Z,RR,CSK,CSK,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",126,127,CSK,Ben Hilfenhaus
+548362,2012,2012-05-11T14:30Z,PWI,RCB,PWI,BOWL FIRST,"Maharashtra Cricket Association Stadium, Pune",173,138,RCB,Chris Gayle
+548363,2012,2012-05-12T10:30Z,KKR,MI,MI,BAT FIRST,"Eden Gardens, Kolkata",182,155,MI,Rohit Sharma
+548364,2012,2012-05-12T14:30Z,CSK,DC,CSK,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",114,115,CSK,Ben Hilfenhaus
+548365,2012,2012-05-13T10:30Z,RR,PWI,RR,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",170,125,RR,Ajit  Chandila
+548366,2012,2012-05-13T14:30Z,KXIP,SRH,SRH,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",190,194,KXIP,David Hussey
+548367,2012,2012-05-14T10:30Z,RCB,MI,MI,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",171,173,MI,Ambati Rayudu
+548368,2012,2012-05-14T14:30Z,KKR,CSK,CSK,BOWL FIRST,"Eden Gardens, Kolkata",158,160,CSK,Michael Hussey
+548369,2012,2012-05-15T14:30Z,DC,KXIP,KXIP,BAT FIRST,"Arun Jaitley Stadium, Delhi",136,140,DC,Umesh Yadav
+548370,2012,2012-05-16T14:30Z,MI,KKR,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",140,108,KKR,Sunil Narine
+548371,2012,2012-05-17T10:30Z,KXIP,CSK,KXIP,BOWL FIRST,"Himachal Pradesh Cricket Association Stadium, Dharamsala",120,123,KXIP,Adam Gilchrist
+548372,2012,2012-05-17T14:30Z,DC,RCB,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",215,194,RCB,Chris Gayle
+548373,2012,2012-05-18T14:30Z,SRH,RR,RR,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",126,128,SRH,Dale Steyn
+548374,2012,2012-05-19T10:30Z,KXIP,DC,DC,BOWL FIRST,"Himachal Pradesh Cricket Association Stadium, Dharamsala",141,145,DC,Umesh Yadav
+548375,2012,2012-05-19T14:30Z,PWI,KKR,KKR,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",136,102,KKR,Shakib Al Hasan
+548376,2012,2012-05-20T10:30Z,SRH,RCB,RCB,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",132,123,SRH,Dale Steyn
+548377,2012,2012-05-20T14:30Z,RR,MI,RR,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",162,163,MI,Dwayne Smith
+548378,2012,2012-05-22T14:30Z,DC,KKR,KKR,BAT FIRST,"Maharashtra Cricket Association Stadium, Pune",162,144,KKR,Yusuf Pathan
+548379,2012,2012-05-23T14:30Z,CSK,MI,MI,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",187,149,CSK,MS Dhoni
+548380,2012,2012-05-25T14:30Z,CSK,DC,DC,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",222,136,CSK,Murali Vijay
+548381,2012,2012-05-27T14:30Z,CSK,KKR,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",190,192,KKR,Manvinder  Bisla
+501198,2011,2011-04-08T14:30Z,CSK,KKR,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",153,151,CSK,Srikkanth Anirudha
+501199,2011,2011-04-09T10:30Z,SRH,RR,RR,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,141,RR,Siddharth Trivedi
+501200,2011,2011-04-09T14:30Z,Kochi,RCB,Kochi,BAT FIRST,"Nehru Stadium, Kochi",161,162,RCB,AB de Villiers
+501201,2011,2011-04-10T10:30Z,DC,MI,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",95,99,MI,Lasith Malinga
+501202,2011,2011-04-10T14:30Z,PWI,KXIP,KXIP,BAT FIRST,"Dr DY Patil Sports Academy, Mumbai",112,113,PWI,Shrikant Wagh
+501203,2011,2011-04-11T14:30Z,KKR,SRH,KKR,BAT FIRST,"Eden Gardens, Kolkata",163,154,KKR,Jacques Kallis
+501204,2011,2011-04-12T10:30Z,RR,DC,DC,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",151,152,RR,Shane Warne
+501205,2011,2011-04-12T14:30Z,RCB,MI,MI,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",140,143,MI,Sachin Tendulkar
+501206,2011,2011-04-13T10:30Z,KXIP,CSK,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",188,193,KXIP,Paul Valthaty
+501207,2011,2011-04-13T14:30Z,PWI,Kochi,Kochi,BAT FIRST,"Dr DY Patil Sports Academy, Mumbai",148,151,PWI,Mohnish  Mishra
+501208,2011,2011-04-14T14:30Z,SRH,RCB,RCB,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",175,142,SRH,Dale Steyn
+501209,2011,2011-04-15T10:30Z,RR,KKR,KKR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",159,160,KKR,Gautam Gambhir
+501210,2011,2011-04-15T14:30Z,MI,Kochi,Kochi,BOWL FIRST,"Wankhede Stadium, Mumbai",182,184,Kochi,Brendon McCullum
+501211,2011,2011-04-16T10:30Z,CSK,RCB,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",183,162,CSK,Michael Hussey
+501212,2011,2011-04-16T14:30Z,SRH,KXIP,KXIP,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",165,166,KXIP,Paul Valthaty
+501213,2011,2011-04-17T10:30Z,PWI,DC,DC,BOWL FIRST,"Dr DY Patil Sports Academy, Mumbai",187,190,DC,Yuvraj Singh
+501214,2011,2011-04-17T14:30Z,KKR,RR,KKR,BOWL FIRST,"Eden Gardens, Kolkata",81,85,KKR,Lakshmipathy Balaji
+501215,2011,2011-04-18T14:30Z,Kochi,CSK,Kochi,BOWL FIRST,"Nehru Stadium, Kochi",131,135,Kochi,Brendon McCullum
+501216,2011,2011-04-19T10:30Z,DC,SRH,SRH,BAT FIRST,"Arun Jaitley Stadium, Delhi",168,152,SRH,Sunny Sohal
+501218,2011,2011-04-20T10:30Z,MI,PWI,PWI,BAT FIRST,"Wankhede Stadium, Mumbai",118,124,MI,Munaf Patel
+501219,2011,2011-04-20T14:30Z,KKR,Kochi,KKR,BOWL FIRST,"Eden Gardens, Kolkata",132,126,Kochi,Mahela Jayawardene
+501220,2011,2011-04-21T14:30Z,KXIP,RR,RR,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",195,147,KXIP,Shaun Marsh
+501222,2011,2011-04-22T10:30Z,KKR,RCB,RCB,BOWL FIRST,"Eden Gardens, Kolkata",171,175,RCB,Chris Gayle
+501221,2011,2011-04-22T14:30Z,MI,CSK,CSK,BOWL FIRST,"Wankhede Stadium, Mumbai",164,156,MI,Harbhajan Singh
+501223,2011,2011-04-23T14:30Z,DC,KXIP,KXIP,BOWL FIRST,"Arun Jaitley Stadium, Delhi",231,202,DC,David Warner
+501224,2011,2011-04-24T10:30Z,SRH,MI,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",172,135,MI,Lasith Malinga
+501225,2011,2011-04-24T14:30Z,RR,Kochi,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",109,111,RR,Shane Warne
+501226,2011,2011-04-25T14:30Z,CSK,PWI,PWI,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",142,117,CSK,Michael Hussey
+501227,2011,2011-04-26T14:30Z,DC,RCB,RCB,BOWL FIRST,"Arun Jaitley Stadium, Delhi",160,161,RCB,Virat Kohli
+501228,2011,2011-04-27T10:30Z,PWI,CSK,PWI,BAT FIRST,"Dr DY Patil Sports Academy, Mumbai",141,145,CSK,Doug Bollinger
+501229,2011,2011-04-27T14:30Z,Kochi,SRH,Kochi,BOWL FIRST,"Nehru Stadium, Kochi",129,74,SRH,Ishant Sharma
+501230,2011,2011-04-28T14:30Z,DC,KKR,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",148,131,KKR,Manoj Tiwary
+501231,2011,2011-04-29T10:30Z,RR,MI,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",94,95,RR,Johan Botha
+501232,2011,2011-04-29T14:30Z,RCB,PWI,PWI,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",181,155,RCB,Virat Kohli
+501233,2011,2011-04-30T10:30Z,Kochi,DC,DC,BAT FIRST,"Nehru Stadium, Kochi",157,119,DC,Virender Sehwag
+501234,2011,2011-04-30T14:30Z,KKR,KXIP,KKR,BOWL FIRST,"Eden Gardens, Kolkata",119,120,KKR,Iqbal Abdulla
+501235,2011,2011-05-01T10:30Z,RR,PWI,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",143,144,RR,Ross Taylor
+501236,2011,2011-05-01T14:30Z,CSK,SRH,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",165,146,CSK,Albie Morkel
+501237,2011,2011-05-02T10:30Z,MI,KXIP,KXIP,BOWL FIRST,"Wankhede Stadium, Mumbai",159,136,MI,Kieron Pollard
+501238,2011,2011-05-02T14:30Z,DC,Kochi,Kochi,BOWL FIRST,"Arun Jaitley Stadium, Delhi",140,141,Kochi,Prasanth Parameswaran
+501239,2011,2011-05-03T14:30Z,SRH,KKR,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",169,149,KKR,Yusuf Pathan
+501240,2011,2011-05-04T10:30Z,CSK,RR,RR,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",147,149,CSK,Michael Hussey
+501241,2011,2011-05-04T14:30Z,PWI,MI,PWI,BOWL FIRST,"Dr DY Patil Sports Academy, Mumbai",160,139,MI,Rahul Sharma
+501242,2011,2011-05-05T10:30Z,Kochi,KKR,KKR,BOWL FIRST,"Nehru Stadium, Kochi",156,139,Kochi,Brad Hodge
+501243,2011,2011-05-05T14:30Z,SRH,DC,DC,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",175,179,DC,Virender Sehwag
+501244,2011,2011-05-06T14:30Z,RCB,KXIP,KXIP,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",205,120,RCB,Chris Gayle
+501245,2011,2011-05-07T10:30Z,KKR,CSK,CSK,BAT FIRST,"Eden Gardens, Kolkata",114,61,KKR,Iqbal Abdulla
+501246,2011,2011-05-07T14:30Z,MI,DC,DC,BOWL FIRST,"Wankhede Stadium, Mumbai",178,146,MI,Ambati Rayudu
+501247,2011,2011-05-08T10:30Z,RCB,Kochi,Kochi,BAT FIRST,"M.Chinnaswamy Stadium, Bengaluru",125,128,RCB,Chris Gayle
+501248,2011,2011-05-08T14:30Z,KXIP,PWI,KXIP,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",119,120,PWI,Rahul Sharma
+501249,2011,2011-05-09T14:30Z,RR,CSK,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",196,133,CSK,Murali Vijay
+501250,2011,2011-05-10T10:30Z,SRH,PWI,SRH,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",136,137,PWI,Mitchell Marsh
+501251,2011,2011-05-10T14:30Z,KXIP,MI,MI,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",163,87,KXIP,Bhargav Bhatt
+501252,2011,2011-05-11T14:30Z,RR,RCB,RCB,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",146,151,RCB,Sreenath Aravind
+501253,2011,2011-05-12T14:30Z,CSK,DC,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",176,158,CSK,MS Dhoni
+501254,2011,2011-05-13T14:30Z,Kochi,KXIP,KXIP,BOWL FIRST,"Holkar Cricket Stadium, Indore",178,181,KXIP,Dinesh Karthik
+501255,2011,2011-05-14T10:30Z,RCB,KKR,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",89,105,RCB,Chris Gayle
+501256,2011,2011-05-14T14:30Z,MI,SRH,SRH,BAT FIRST,"Wankhede Stadium, Mumbai",135,125,SRH,Amit Mishra
+501257,2011,2011-05-15T10:30Z,KXIP,DC,DC,BOWL FIRST,"Himachal Pradesh Cricket Association Stadium, Dharamsala",170,141,KXIP,Piyush Chawla
+501258,2011,2011-05-15T14:30Z,Kochi,RR,Kochi,BOWL FIRST,"Holkar Cricket Stadium, Indore",97,98,Kochi,Brad Hodge
+501259,2011,2011-05-16T14:30Z,PWI,SRH,SRH,BOWL FIRST,"Dr DY Patil Sports Academy, Mumbai",136,138,SRH,Amit Mishra
+501260,2011,2011-05-17T14:30Z,KXIP,RCB,KXIP,BAT FIRST,"Himachal Pradesh Cricket Association Stadium, Dharamsala",232,121,KXIP,Adam Gilchrist
+501261,2011,2011-05-18T14:30Z,CSK,Kochi,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",152,141,CSK,Wriddhiman Saha
+501262,2011,2011-05-19T14:30Z,PWI,KKR,KKR,BOWL FIRST,"Dr DY Patil Sports Academy, Mumbai",118,119,KKR,Yusuf Pathan
+501263,2011,2011-05-20T14:30Z,MI,RR,MI,BAT FIRST,"Wankhede Stadium, Mumbai",133,134,RR,Shane Watson
+501264,2011,2011-05-21T10:30Z,KXIP,SRH,KXIP,BOWL FIRST,"Himachal Pradesh Cricket Association Stadium, Dharamsala",198,116,SRH,Shikhar Dhawan
+501266,2011,2011-05-22T10:30Z,RCB,CSK,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",128,129,RCB,Chris Gayle
+501267,2011,2011-05-22T14:30Z,KKR,MI,MI,BOWL FIRST,"Eden Gardens, Kolkata",175,178,MI,James Franklin
+501268,2011,2011-05-24T14:30Z,CSK,RCB,CSK,BOWL FIRST,"Wankhede Stadium, Mumbai",175,177,CSK,Suresh Raina
+501269,2011,2011-05-25T14:30Z,MI,KKR,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",147,148,MI,Munaf Patel
+501270,2011,2011-05-27T14:30Z,MI,RCB,MI,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",185,142,RCB,Chris Gayle
+501271,2011,2011-05-28T14:30Z,CSK,RCB,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",205,147,CSK,Murali Vijay
+419106,2010,2010-03-12T14:30Z,SRH,KKR,SRH,BOWL FIRST,"Dr DY Patil Sports Academy, Mumbai",161,150,KKR,Angelo Mathews
+419107,2010,2010-03-13T09:30Z,MI,RR,MI,BAT FIRST,"Brabourne Stadium, Mumbai",212,208,MI,Yusuf Pathan
+419108,2010,2010-03-13T14:30Z,KXIP,DC,DC,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",142,146,DC,Gautam Gambhir
+419109,2010,2010-03-14T10:30Z,KKR,RCB,KKR,BOWL FIRST,"Eden Gardens, Kolkata",135,136,KKR,Manoj Tiwary
+419110,2010,2010-03-14T14:30Z,CSK,SRH,SRH,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",190,159,SRH,Chaminda Vaas
+419111,2010,2010-03-15T14:30Z,RR,DC,DC,BOWL FIRST,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",141,142,DC,Virender Sehwag
+419112,2010,2010-03-16T10:30Z,RCB,KXIP,KXIP,BAT FIRST,"M.Chinnaswamy Stadium, Bengaluru",203,204,RCB,Jacques Kallis
+419113,2010,2010-03-16T14:30Z,KKR,CSK,CSK,BAT FIRST,"Eden Gardens, Kolkata",164,109,CSK,MS Dhoni
+419114,2010,2010-03-17T14:30Z,DC,MI,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",218,120,MI,Sachin Tendulkar
+419115,2010,2010-03-18T14:30Z,RCB,RR,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",92,93,RCB,Jacques Kallis
+419116,2010,2010-03-19T10:30Z,DC,CSK,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",185,190,CSK,Matthew Hayden
+419117,2010,2010-03-19T14:30Z,SRH,KXIP,KXIP,BOWL FIRST,"Barabati Stadium, Cuttack",170,164,SRH,Andrew Symonds
+419118,2010,2010-03-20T10:30Z,RR,KKR,RR,BAT FIRST,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",168,134,RR,Abhishek Jhunjhunwala
+419119,2010,2010-03-20T14:30Z,MI,RCB,MI,BAT FIRST,"Brabourne Stadium, Mumbai",151,155,RCB,Jacques Kallis
+419120,2010,2010-03-21T10:30Z,SRH,DC,SRH,BAT FIRST,"Barabati Stadium, Cuttack",171,161,SRH,Andrew Symonds
+419121,2010,2010-03-21T14:30Z,CSK,KXIP,CSK,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",136,136,CSK,Rusty Theron
+419122,2010,2010-03-22T14:30Z,MI,KKR,KKR,BAT FIRST,"Brabourne Stadium, Mumbai",155,156,MI,Sachin Tendulkar
+419123,2010,2010-03-23T14:30Z,RCB,CSK,CSK,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",171,135,RCB,Robin Uthappa
+419124,2010,2010-03-24T14:30Z,KXIP,RR,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",183,152,RR,Adam Voges
+419128,2010,2010-03-25T10:30Z,RCB,DC,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",183,166,DC,Kedar Jadhav
+419125,2010,2010-03-25T14:30Z,MI,CSK,MI,BOWL FIRST,"Brabourne Stadium, Mumbai",180,181,MI,Sachin Tendulkar
+419126,2010,2010-03-26T14:30Z,RR,SRH,SRH,BAT FIRST,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",148,151,RR,Yusuf Pathan
+419127,2010,2010-03-27T14:30Z,KXIP,KKR,KKR,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",183,144,KKR,Manoj Tiwary
+419129,2010,2010-03-28T10:30Z,RR,CSK,RR,BAT FIRST,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",177,160,RR,Naman Ojha
+419130,2010,2010-03-28T14:30Z,SRH,MI,SRH,BOWL FIRST,"Dr DY Patil Sports Academy, Mumbai",172,131,MI,Harbhajan Singh
+419131,2010,2010-03-29T14:30Z,DC,KKR,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",177,137,DC,David Warner
+419132,2010,2010-03-30T14:30Z,MI,KXIP,MI,BOWL FIRST,"Brabourne Stadium, Mumbai",163,164,MI,Lasith Malinga
+419133,2010,2010-03-31T10:30Z,CSK,RCB,RCB,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",161,162,CSK,Murali Vijay
+419134,2010,2010-03-31T14:30Z,DC,RR,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",188,121,DC,Dinesh Karthik
+419135,2010,2010-04-01T14:30Z,KKR,SRH,KKR,BAT FIRST,"Eden Gardens, Kolkata",181,157,KKR,Sourav Ganguly
+419136,2010,2010-04-02T14:30Z,KXIP,RCB,KXIP,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",181,184,RCB,Kevin Pietersen
+419137,2010,2010-04-03T10:30Z,CSK,RR,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",246,223,CSK,Murali Vijay
+419138,2010,2010-04-03T14:30Z,MI,SRH,MI,BAT FIRST,"Brabourne Stadium, Mumbai",178,115,MI,Ambati Rayudu
+419139,2010,2010-04-04T10:30Z,KKR,KXIP,KKR,BAT FIRST,"Eden Gardens, Kolkata",200,204,KXIP,Mahela Jayawardene
+419140,2010,2010-04-04T14:30Z,DC,RCB,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",184,147,DC,Paul Collingwood
+419141,2010,2010-04-05T14:30Z,SRH,RR,RR,BAT FIRST,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",159,157,RR,Shane Warne
+419142,2010,2010-04-06T14:30Z,CSK,MI,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",165,141,CSK,Suresh Raina
+419143,2010,2010-04-07T10:30Z,RR,KXIP,KXIP,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",153,157,RR,Michael Lumb
+419144,2010,2010-04-07T14:30Z,KKR,DC,KKR,BAT FIRST,"Eden Gardens, Kolkata",181,167,KKR,Sourav Ganguly
+419145,2010,2010-04-08T14:30Z,RCB,SRH,SRH,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",184,186,SRH,Tirumalasetti Suman
+419146,2010,2010-04-09T14:30Z,KXIP,MI,MI,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",154,158,KXIP,Kumar Sangakkara
+419147,2010,2010-04-10T10:30Z,SRH,CSK,CSK,BAT FIRST,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",138,139,SRH,Ryan Harris
+419148,2010,2010-04-10T14:30Z,RCB,KKR,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",160,162,RCB,Vinay Kumar
+419149,2010,2010-04-11T10:30Z,DC,KXIP,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",111,112,KXIP,Piyush Chawla
+419150,2010,2010-04-11T14:30Z,RR,MI,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",174,137,MI,Sachin Tendulkar
+419151,2010,2010-04-12T14:30Z,SRH,RCB,RCB,BOWL FIRST,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",151,138,SRH,Harmeet Singh
+419152,2010,2010-04-13T10:30Z,MI,DC,MI,BAT FIRST,"Brabourne Stadium, Mumbai",183,144,MI,Kieron Pollard
+419153,2010,2010-04-13T14:30Z,CSK,KKR,KKR,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",139,143,CSK,Ravichandran Ashwin
+419154,2010,2010-04-14T14:30Z,RR,RCB,RR,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",130,132,RCB,Kevin Pietersen
+419155,2010,2010-04-15T14:30Z,CSK,DC,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",112,113,DC,Gautam Gambhir
+419156,2010,2010-04-16T14:30Z,KXIP,SRH,SRH,BOWL FIRST,"Himachal Pradesh Cricket Association Stadium, Dharamsala",174,178,SRH,Rohit Sharma
+419157,2010,2010-04-17T10:30Z,RCB,MI,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",191,134,MI,Ryan McLaren
+419158,2010,2010-04-17T14:30Z,KKR,RR,RR,BAT FIRST,"Eden Gardens, Kolkata",132,133,KKR,Jaydev Unadkat
+419159,2010,2010-04-18T10:30Z,KXIP,CSK,CSK,BOWL FIRST,"Himachal Pradesh Cricket Association Stadium, Dharamsala",192,195,CSK,MS Dhoni
+419160,2010,2010-04-18T14:30Z,DC,SRH,SRH,BAT FIRST,"Arun Jaitley Stadium, Delhi",145,134,SRH,Andrew Symonds
+419161,2010,2010-04-19T14:30Z,KKR,MI,MI,BAT FIRST,"Eden Gardens, Kolkata",133,135,KKR,Murali Kartik
+419162,2010,2010-04-21T14:30Z,MI,RCB,MI,BAT FIRST,"Dr DY Patil Sports Academy, Mumbai",184,149,MI,Kieron Pollard
+419163,2010,2010-04-22T14:30Z,CSK,SRH,CSK,BAT FIRST,"Dr DY Patil Sports Academy, Mumbai",142,104,CSK,Doug Bollinger
+419164,2010,2010-04-24T14:30Z,SRH,RCB,SRH,BAT FIRST,"Dr DY Patil Sports Academy, Mumbai",82,86,RCB,Anil Kumble
+419165,2010,2010-04-25T15:00Z,MI,CSK,CSK,BAT FIRST,"Dr DY Patil Sports Academy, Mumbai",168,146,CSK,Suresh Raina
+392181,2009,2009-04-18T10:30Z,CSK,MI,CSK,BOWL FIRST,"Newlands, Cape Town",165,146,MI,Sachin Tendulkar
+392182,2009,2009-04-18T15:10Z,RCB,RR,RCB,BAT FIRST,"Newlands, Cape Town",133,58,RCB,Rahul Dravid
+392183,2009,2009-04-19T10:30Z,DC,KXIP,DC,BOWL FIRST,"Newlands, Cape Town",104,58,DC,Daniel Vettori
+392184,2009,2009-04-19T16:50Z,SRH,KKR,KKR,BAT FIRST,"Newlands, Cape Town",101,104,SRH,RP Singh
+392185,2009,2009-04-20T14:30Z,RCB,CSK,CSK,BAT FIRST,"St George's Park, Port Elizabeth",179,87,CSK,Muttiah Muralitharan
+392186,2009,2009-04-21T10:30Z,KXIP,KKR,KKR,BOWL FIRST,"Kingsmead, Durban",158,79,KKR,Chris Gayle
+392188,2009,2009-04-22T14:30Z,RCB,SRH,SRH,BAT FIRST,"Newlands, Cape Town",184,160,SRH,Adam Gilchrist
+392189,2009,2009-04-23T10:30Z,CSK,DC,DC,BAT FIRST,"Kingsmead, Durban",189,180,DC,AB de Villiers
+392190,2009,2009-04-23T14:45Z,KKR,RR,KKR,BOWL FIRST,"Newlands, Cape Town",150,150,KKR,Yusuf Pathan
+392191,2009,2009-04-24T14:30Z,RCB,KXIP,RCB,BAT FIRST,"Kingsmead, Durban",168,173,KXIP,Ravi Bopara
+392192,2009,2009-04-25T10:30Z,SRH,MI,SRH,BAT FIRST,"Kingsmead, Durban",168,156,SRH,Pragyan Ojha
+392194,2009,2009-04-26T10:30Z,RCB,DC,RCB,BAT FIRST,"St George's Park, Port Elizabeth",149,150,DC,Tillakaratne Dilshan
+392195,2009,2009-04-26T14:45Z,KXIP,RR,KXIP,BAT FIRST,"Newlands, Cape Town",139,112,KXIP,Kumar Sangakkara
+392196,2009,2009-04-27T10:30Z,CSK,SRH,SRH,BOWL FIRST,"Kingsmead, Durban",165,169,SRH,Herschelle Gibbs
+392197,2009,2009-04-27T14:45Z,KKR,MI,MI,BAT FIRST,"St George's Park, Port Elizabeth",187,95,MI,Sachin Tendulkar
+392198,2009,2009-04-28T14:30Z,DC,RR,DC,BAT FIRST,"SuperSport Park, Centurion",143,147,RR,Yusuf Pathan
+392199,2009,2009-04-29T10:30Z,RCB,KKR,KKR,BAT FIRST,"Kingsmead, Durban",139,143,RCB,Mark Boucher
+392200,2009,2009-04-29T14:30Z,KXIP,MI,KXIP,BAT FIRST,"Kingsmead, Durban",119,116,KXIP,Kumar Sangakkara
+392201,2009,2009-04-30T10:30Z,SRH,DC,DC,BOWL FIRST,"SuperSport Park, Centurion",148,150,DC,Dirk Nannes
+392202,2009,2009-04-30T14:30Z,CSK,RR,RR,BOWL FIRST,"SuperSport Park, Centurion",164,126,CSK,Suresh Raina
+392203,2009,2009-05-01T10:30Z,KKR,MI,MI,BAT FIRST,"Buffalo Park, East London",148,139,MI,Jean-Paul Duminy
+392204,2009,2009-05-01T14:45Z,RCB,KXIP,RCB,BAT FIRST,"Kingsmead, Durban",145,137,RCB,Yuvraj Singh
+392205,2009,2009-05-02T10:30Z,SRH,RR,SRH,BAT FIRST,"St George's Park, Port Elizabeth",141,142,RR,Yusuf Pathan
+392206,2009,2009-05-02T14:45Z,CSK,DC,DC,BOWL FIRST,"The Wanderers Stadium, Johannesburg",163,145,CSK,Shadab Jakati
+392207,2009,2009-05-03T10:30Z,KXIP,KKR,KKR,BAT FIRST,"St George's Park, Port Elizabeth",153,154,KXIP,Mahela Jayawardene
+392208,2009,2009-05-03T14:45Z,RCB,MI,MI,BAT FIRST,"The Wanderers Stadium, Johannesburg",149,150,RCB,Jacques Kallis
+392209,2009,2009-05-04T14:30Z,CSK,SRH,CSK,BAT FIRST,"Buffalo Park, East London",178,100,CSK,MS Dhoni
+392210,2009,2009-05-05T10:30Z,KXIP,RR,KXIP,BOWL FIRST,"Kingsmead, Durban",211,133,RR,Graeme Smith
+392211,2009,2009-05-05T14:30Z,DC,KKR,KKR,BAT FIRST,"Kingsmead, Durban",154,157,DC,Gautam Gambhir
+392212,2009,2009-05-06T14:30Z,SRH,MI,SRH,BAT FIRST,"SuperSport Park, Centurion",145,126,SRH,Rohit Sharma
+392213,2009,2009-05-07T10:30Z,RCB,RR,RR,BOWL FIRST,"SuperSport Park, Centurion",105,107,RR,Amit Singh
+392214,2009,2009-05-07T14:30Z,CSK,KXIP,CSK,BAT FIRST,"SuperSport Park, Centurion",185,174,CSK,Matthew Hayden
+392215,2009,2009-05-08T14:30Z,DC,MI,MI,BAT FIRST,"Buffalo Park, East London",116,118,DC,Ashish Nehra
+392216,2009,2009-05-09T10:30Z,SRH,KXIP,KXIP,BOWL FIRST,"Diamond Oval, Kimberley",168,169,KXIP,Mahela Jayawardene
+392217,2009,2009-05-09T14:30Z,CSK,RR,RR,BAT FIRST,"Diamond Oval, Kimberley",140,141,CSK,S Badrinath
+392218,2009,2009-05-10T10:30Z,RCB,MI,MI,BAT FIRST,"St George's Park, Port Elizabeth",157,141,MI,Jean-Paul Duminy
+392219,2009,2009-05-10T14:45Z,DC,KKR,DC,BOWL FIRST,"The Wanderers Stadium, Johannesburg",123,125,DC,Amit Mishra
+392220,2009,2009-05-11T14:30Z,SRH,RR,SRH,BAT FIRST,"Diamond Oval, Kimberley",166,113,SRH,Dwayne Smith
+392221,2009,2009-05-12T10:30Z,RCB,KKR,RCB,BOWL FIRST,"SuperSport Park, Centurion",173,176,RCB,Ross Taylor
+392222,2009,2009-05-12T14:30Z,KXIP,MI,KXIP,BAT FIRST,"SuperSport Park, Centurion",119,122,MI,Harbhajan Singh
+392223,2009,2009-05-13T14:30Z,SRH,DC,SRH,BOWL FIRST,"Kingsmead, Durban",173,161,DC,Rajat Bhatia
+392224,2009,2009-05-14T10:30Z,RCB,CSK,CSK,BAT FIRST,"Kingsmead, Durban",129,132,RCB,Ross Taylor
+392225,2009,2009-05-14T14:30Z,MI,RR,RR,BAT FIRST,"Kingsmead, Durban",145,143,RR,Shane Warne
+392226,2009,2009-05-15T14:30Z,DC,KXIP,KXIP,BOWL FIRST,"Mangaung Oval, Bloemfontein",120,123,KXIP,Brett Lee
+392227,2009,2009-05-16T10:30Z,CSK,MI,MI,BAT FIRST,"St George's Park, Port Elizabeth",147,151,CSK,Matthew Hayden
+392228,2009,2009-05-16T14:45Z,SRH,KKR,SRH,BOWL FIRST,"The Wanderers Stadium, Johannesburg",160,166,SRH,Rohit Sharma
+392229,2009,2009-05-17T10:30Z,SRH,KXIP,SRH,BOWL FIRST,"The Wanderers Stadium, Johannesburg",134,133,KXIP,Yuvraj Singh
+392230,2009,2009-05-17T14:45Z,DC,RR,DC,BAT FIRST,"Mangaung Oval, Bloemfontein",150,136,DC,AB de Villiers
+392231,2009,2009-05-18T14:30Z,CSK,KKR,CSK,BAT FIRST,"SuperSport Park, Centurion",188,189,KKR,Brad Hodge
+392232,2009,2009-05-19T14:30Z,RCB,DC,DC,BAT FIRST,"The Wanderers Stadium, Johannesburg",134,135,RCB,Jacques Kallis
+392233,2009,2009-05-20T10:30Z,KKR,RR,KKR,BOWL FIRST,"Kingsmead, Durban",101,102,KKR,Laxmi Shukla
+392234,2009,2009-05-20T14:30Z,CSK,KXIP,CSK,BAT FIRST,"Kingsmead, Durban",116,92,CSK,Muttiah Muralitharan
+392235,2009,2009-05-21T10:30Z,DC,MI,DC,BOWL FIRST,"SuperSport Park, Centurion",165,166,DC,Virender Sehwag
+392236,2009,2009-05-21T14:30Z,RCB,SRH,RCB,BAT FIRST,"SuperSport Park, Centurion",170,158,RCB,Manish Pandey
+392237,2009,2009-05-22T14:30Z,SRH,DC,SRH,BOWL FIRST,"SuperSport Park, Centurion",153,154,SRH,Adam Gilchrist
+392238,2009,2009-05-23T14:30Z,CSK,RCB,RCB,BOWL FIRST,"The Wanderers Stadium, Johannesburg",146,149,RCB,Manish Pandey
+392239,2009,2009-05-24T14:30Z,SRH,RCB,RCB,BOWL FIRST,"The Wanderers Stadium, Johannesburg",143,137,SRH,Anil Kumble
+335982,2008,2008-04-18T14:30Z,RCB,KKR,RCB,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",222,82,KKR,Brendon McCullum
+335983,2008,2008-04-19T11:30Z,KXIP,CSK,CSK,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",240,207,CSK,Michael Hussey
+335984,2008,2008-04-19T15:00Z,DC,RR,RR,BAT FIRST,"Arun Jaitley Stadium, Delhi",129,132,DC,Farveez Maharoof
+335986,2008,2008-04-20T10:30Z,KKR,SRH,SRH,BAT FIRST,"Eden Gardens, Kolkata",110,112,KKR,David Hussey
+335985,2008,2008-04-20T14:30Z,MI,RCB,MI,BAT FIRST,"Wankhede Stadium, Mumbai",165,166,RCB,Mark Boucher
+335987,2008,2008-04-21T14:30Z,RR,KXIP,KXIP,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",166,168,RR,Shane Watson
+335988,2008,2008-04-22T14:30Z,SRH,DC,SRH,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",142,143,DC,Virender Sehwag
+335989,2008,2008-04-23T14:30Z,CSK,MI,MI,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",208,202,CSK,Matthew Hayden
+335990,2008,2008-04-24T14:30Z,SRH,RR,RR,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",214,217,RR,Yusuf Pathan
+335991,2008,2008-04-25T14:30Z,KXIP,MI,MI,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",182,116,KXIP,Kumar Sangakkara
+335993,2008,2008-04-26T10:30Z,CSK,KKR,KKR,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",147,152,CSK,Jacob Oram
+335992,2008,2008-04-26T14:30Z,RCB,RR,RR,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",135,138,RR,Shane Watson
+335995,2008,2008-04-27T10:30Z,KXIP,DC,DC,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",158,162,KXIP,Simon Katich
+335994,2008,2008-04-27T14:30Z,MI,SRH,SRH,BOWL FIRST,"Dr DY Patil Sports Academy, Mumbai",154,155,SRH,Adam Gilchrist
+335996,2008,2008-04-28T14:30Z,RCB,CSK,CSK,BAT FIRST,"M.Chinnaswamy Stadium, Bengaluru",178,165,CSK,MS Dhoni
+335997,2008,2008-04-29T14:30Z,KKR,MI,KKR,BAT FIRST,"Eden Gardens, Kolkata",137,138,MI,Sanath Jayasuriya
+335998,2008,2008-04-30T14:30Z,DC,RCB,RCB,BOWL FIRST,"Arun Jaitley Stadium, Delhi",191,181,DC,Glenn McGrath
+336000,2008,2008-05-01T10:30Z,RR,KKR,RR,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",196,151,RR,Swapnil Asnodkar
+335999,2008,2008-05-01T14:30Z,SRH,KXIP,KXIP,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",164,167,KXIP,Shaun Marsh
+336001,2008,2008-05-02T14:30Z,CSK,DC,CSK,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",169,172,DC,Virender Sehwag
+336034,2008,2008-05-03T10:30Z,RCB,SRH,SRH,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",156,153,RCB,Praveen Kumar
+336003,2008,2008-05-03T14:30Z,KXIP,KKR,KXIP,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",178,169,KXIP,Irfan Pathan
+336004,2008,2008-05-04T10:30Z,MI,DC,DC,BOWL FIRST,"Dr DY Patil Sports Academy, Mumbai",162,133,MI,Shaun Pollock
+336005,2008,2008-05-04T14:30Z,RR,CSK,CSK,BAT FIRST,"Sawai Mansingh Stadium, Jaipur",109,110,RR,Sohail Tanvir
+336006,2008,2008-05-05T14:30Z,RCB,KXIP,KXIP,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",126,127,KXIP,Sreesanth
+336007,2008,2008-05-06T14:30Z,CSK,SRH,SRH,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",144,148,SRH,Adam Gilchrist
+336008,2008,2008-05-07T14:30Z,MI,RR,MI,BOWL FIRST,"Dr DY Patil Sports Academy, Mumbai",103,104,MI,Ashish Nehra
+336009,2008,2008-05-08T10:30Z,DC,CSK,CSK,BOWL FIRST,"Arun Jaitley Stadium, Delhi",187,188,CSK,MS Dhoni
+336010,2008,2008-05-08T14:30Z,KKR,RCB,KKR,BAT FIRST,"Eden Gardens, Kolkata",129,124,KKR,Sourav Ganguly
+336011,2008,2008-05-09T14:30Z,RR,SRH,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",140,141,RR,Yusuf Pathan
+336013,2008,2008-05-10T14:30Z,CSK,KXIP,KXIP,BOWL FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",181,163,CSK,Lakshmipathy Balaji
+336014,2008,2008-05-11T10:30Z,SRH,KKR,KKR,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",204,181,KKR,Sourav Ganguly
+336015,2008,2008-05-11T14:30Z,RR,DC,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",156,159,RR,Shane Watson
+336016,2008,2008-05-12T14:30Z,KXIP,RCB,RCB,BAT FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",143,144,KXIP,Shaun Marsh
+336017,2008,2008-05-13T14:30Z,KKR,DC,KKR,BAT FIRST,"Eden Gardens, Kolkata",133,110,KKR,Shoaib Akhtar
+336018,2008,2008-05-14T14:30Z,MI,CSK,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",156,158,MI,Sanath Jayasuriya
+336020,2008,2008-05-15T14:30Z,DC,SRH,SRH,BOWL FIRST,"Arun Jaitley Stadium, Delhi",194,182,DC,Amit Mishra
+336021,2008,2008-05-16T14:30Z,MI,KKR,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",67,68,MI,Shaun Pollock
+336023,2008,2008-05-17T10:30Z,RR,RCB,RCB,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",197,132,RR,Graeme Smith
+336022,2008,2008-05-17T14:30Z,DC,KXIP,DC,BAT FIRST,"Arun Jaitley Stadium, Delhi",118,94,KXIP,Mahela Jayawardene
+336025,2008,2008-05-18T10:30Z,KKR,CSK,KKR,BAT FIRST,"Eden Gardens, Kolkata",149,55,CSK,Makhaya Ntini
+336024,2008,2008-05-18T14:30Z,SRH,MI,SRH,BOWL FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",178,153,MI,Dwayne Bravo
+336026,2008,2008-05-19T14:30Z,RCB,DC,DC,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",154,158,DC,Shreevats Goswami
+336027,2008,2008-05-20T14:30Z,KKR,RR,RR,BOWL FIRST,"Eden Gardens, Kolkata",147,150,RR,Yusuf Pathan
+336028,2008,2008-05-21T10:30Z,MI,KXIP,MI,BOWL FIRST,"Wankhede Stadium, Mumbai",189,188,KXIP,Shaun Marsh
+336029,2008,2008-05-21T14:30Z,CSK,RCB,RCB,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",126,112,RCB,Anil Kumble
+336031,2008,2008-05-23T14:30Z,KXIP,SRH,KXIP,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",175,178,KXIP,Shaun Marsh
+336033,2008,2008-05-24T10:30Z,CSK,RR,RR,BAT FIRST,"MA Chidambaram Stadium, Chepauk, Chennai",211,201,RR,Albie Morkel
+336032,2008,2008-05-24T14:30Z,DC,MI,DC,BOWL FIRST,"Arun Jaitley Stadium, Delhi",176,179,DC,Dinesh Karthik
+336002,2008,2008-05-25T10:30Z,SRH,RCB,SRH,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",165,171,RCB,Vinay Kumar
+336035,2008,2008-05-25T14:30Z,KKR,KXIP,KXIP,BAT FIRST,"Eden Gardens, Kolkata",174,175,KKR,Umar Gul
+336036,2008,2008-05-26T14:30Z,RR,MI,RR,BOWL FIRST,"Sawai Mansingh Stadium, Jaipur",145,146,RR,Sohail Tanvir
+336037,2008,2008-05-27T14:30Z,SRH,CSK,SRH,BAT FIRST,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",147,148,CSK,Suresh Raina
+336012,2008,2008-05-28T10:30Z,RCB,MI,MI,BOWL FIRST,"M.Chinnaswamy Stadium, Bengaluru",122,126,MI,Dilhara Fernando
+336019,2008,2008-05-28T14:30Z,KXIP,RR,RR,BOWL FIRST,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",221,180,KXIP,Shaun Marsh
+336038,2008,2008-05-30T14:30Z,DC,RR,DC,BOWL FIRST,"Wankhede Stadium, Mumbai",192,87,RR,Shane Watson
+336039,2008,2008-05-31T14:30Z,CSK,KXIP,KXIP,BAT FIRST,"Wankhede Stadium, Mumbai",112,116,CSK,Makhaya Ntini
+336040,2008,2008-06-01T14:45Z,CSK,RR,RR,BOWL FIRST,"Dr DY Patil Sports Academy, Mumbai",163,164,RR,Yusuf Pathan
